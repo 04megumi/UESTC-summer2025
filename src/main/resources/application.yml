@@ -1,0 +1,48 @@
+server:
+  port: 8848
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/summer2025_dev?useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai
+    username: root
+    password: wzy123456
+    type: com.alibaba.druid.pool.DruidDataSource
+    # Druid 数据源
+    druid:
+      initial-size: 5
+      min-idle: 5
+      max-active: 20
+      max-wait: 60000
+      validation-query: SELECT 1
+      test-on-borrow: false
+      test-while-idle: true
+
+  data:
+    redis:
+      host: localhost
+      port: 6379
+
+  # 数据库版本控制
+  flyway:
+    enabled: true
+    locations: classpath:migration
+    baseline-on-migrate: true
+    baseline-version: 1
+    # Flyway版本历史表名
+    table: flyway_schema_history
+
+mybatis-plus:
+  mapper-locations: classpath*:/mapper/**/*.xml
+  # 省略前缀路径
+  type-aliases-package: com.uestc.summer2025.entity
+  global-config:
+    db-config:
+      # 软删除
+      logic-delete-value: 1
+      logic-not-delete-value: 0
+  configuration:
+    # 自动下划线到驼峰映射
+    map-underscore-to-camel-case: true
+    # sql 语句控制台输出
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl

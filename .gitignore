@@ -1,0 +1,47 @@
+# ---- Java ----
+*.class
+*.jar
+*.war
+*.ear
+
+# ---- Maven ----
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+
+# ---- Spring Boot ----
+*.db
+*.h2.db
+*.mv.db
+*.log
+*.tmp
+*.bak
+*.swp
+*.pid
+*.out
+
+# ---- IntelliJ IDEA ----
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# ---- VSCode ----
+.vscode/
+
+# ---- macOS ----
+.DS_Store
+
+# ---- Logs ----
+logs/
+*.log
+hs_err_pid*
+replay_pid*
+dump*
+
