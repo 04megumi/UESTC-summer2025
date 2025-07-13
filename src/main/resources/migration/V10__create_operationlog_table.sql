@@ -1,3 +1,4 @@
+-- 操作日志表
 CREATE TABLE IF NOT EXISTS OperationLog (
     log_id BIGINT AUTO_INCREMENT PRIMARY KEY COMMENT '日志ID',
     operator_id CHAR(36) NOT NULL COMMENT '操作人ID',
@@ -12,7 +13,7 @@ CREATE TABLE IF NOT EXISTS OperationLog (
     update_time DATETIME DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP COMMENT '最后更新时间',
     created_by VARCHAR(50) COMMENT '创建者',
     updated_by VARCHAR(50) COMMENT '更新者'
-    ) COMMENT='系统操作日志表';
+) COMMENT='系统操作日志表';
 
 -- 创建索引
 CREATE INDEX idx_operator_id ON OperationLog(operator_id);
