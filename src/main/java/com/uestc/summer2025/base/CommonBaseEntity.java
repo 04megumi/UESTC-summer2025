@@ -29,6 +29,9 @@ public class CommonBaseEntity<T extends CommonBaseEntity<?>> extends Model<T> {
     @Version
     private Integer version;
 
+    // 冻结字段
+    private Boolean frozened;
+
     // 逻辑删除标志字段
     @TableLogic
     private Boolean isDeleted;
@@ -54,6 +57,6 @@ public class CommonBaseEntity<T extends CommonBaseEntity<?>> extends Model<T> {
 
     // 是否存续
     public boolean isActivate() {
-        return !isDeleted;
+        return !isDeleted && !frozened;
     }
 }
