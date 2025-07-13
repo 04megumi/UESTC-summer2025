@@ -1,4 +1,4 @@
-package com.uestc.summer2025.data.web.dto;
+package com.uestc.summer2025.web.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

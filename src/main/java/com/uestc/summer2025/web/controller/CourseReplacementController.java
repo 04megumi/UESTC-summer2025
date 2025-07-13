@@ -1,8 +1,10 @@
-package com.uestc.summer2025.data.web.controller;
+package com.uestc.summer2025.web.controller;
 
-import com.uestc.summer2025.data.web.dto.CourseReplacementDTO;
-import com.uestc.summer2025.data.web.vo.CourseReplacementVO;
+import com.uestc.summer2025.data.repository.CourseReplacementRepository;
+import com.uestc.summer2025.web.dto.CourseReplacementDTO;
+import com.uestc.summer2025.web.vo.CourseReplacementVO;
 import com.uestc.summer2025.util.R;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.ArrayList;
@@ -11,6 +13,9 @@ import java.util.List;
 @RestController
 @RequestMapping("/course-replacement")
 public class CourseReplacementController {
+
+    @Autowired
+    private CourseReplacementRepository courseReplacementRepository;
 
     /**
      * 课程替换相关接口
