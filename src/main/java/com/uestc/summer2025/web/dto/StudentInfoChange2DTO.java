@@ -20,4 +20,6 @@ public class StudentInfoChange2DTO {
     private String numberId;
 
     private boolean frozened;
+
+    private boolean isDeleted;
 }

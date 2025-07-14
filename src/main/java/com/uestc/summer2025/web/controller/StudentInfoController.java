@@ -293,7 +293,8 @@ public class StudentInfoController {
      *     "name": "原姓名",
      *     "newName": "新姓名",
      *     "numberId": "新身份证号",
-     *     "frozened": true
+     *     "frozened": true,
+     *     "isDeleted": true
      * }
      *
      * 说明：
@@ -318,6 +319,7 @@ public class StudentInfoController {
             studentInfo.setName(dto.getNewName());
             studentInfo.setIdNumber(dto.getNumberId());
             studentInfo.setFrozened(dto.isFrozened());
+            studentInfo.setIsDeleted(dto.isDeleted());
 
             int rows = studentInfoMapper.updateById(studentInfo);
             if (rows > 0) {
