@@ -1,7 +1,7 @@
 -- 州级考试院信息
 CREATE TABLE IF NOT EXISTS ExamCenter (
     exam_center_id CHAR(36) PRIMARY KEY COMMENT '考试院ID（UUID，主键）',
-    exam_center_name VARCHAR(100) NOT NULL COMMENT '考试院名称',
+    exam_center_name VARCHAR(100) UNIQUE KEY NOT NULL COMMENT '考试院名称',
     state_code VARCHAR(20) NOT NULL COMMENT '所属省的代码',
     state_name VARCHAR(50) NOT NULL COMMENT '所属省的名称',
     address VARCHAR(200) COMMENT '考试院地址',
