@@ -29,14 +29,14 @@ public class CourseReplacementService {
             throw new IllegalArgumentException("Invalid course code from cache.");
         }
         // 创建 CourseReplacement 实体
-        CourseReplacement courseReplacement = new CourseReplacement(
-                oldCourseCode,
-                newCourseCode,
-                majorCode,
-                dto.getEffectiveFrom(),
-                dto.getEffectiveTo()
+        CourseReplacement courseReplacement = courseReplacementRepository.findByCourseCodesAndMajor(
+                oldCourseCode, newCourseCode, majorCode
         );
-        return courseReplacementRepository.addCourseReplacement(courseReplacement);
+        if (courseReplacement != null && courseReplacement.isActivate()) {
+            return courseReplacementRepository.addCourseReplacement(courseReplacement);
+        } else {
+            throw new IllegalArgumentException("Invalid course code from cache.");
+        }
     }
 
 

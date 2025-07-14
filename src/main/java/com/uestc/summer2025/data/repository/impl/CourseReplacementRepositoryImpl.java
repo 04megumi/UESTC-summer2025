@@ -31,7 +31,8 @@ public class CourseReplacementRepositoryImpl implements CourseReplacementReposit
                 .eq("new_course_code", courseReplacement.getNewCourseCode());
         // 如果专业代码不为空，则添加专业代码的条件
         if (courseReplacement.getMajorCode() != null) {
-            queryWrapper.eq("major_code", courseReplacement.getMajorCode());
+            queryWrapper.eq("major_code", courseReplacement.getMajorCode()).
+                    eq("is_deleted", 0);
         }
         // 执行删除操作，返回是否成功
         int result = courseReplacementMapper.delete(queryWrapper);
@@ -57,12 +58,10 @@ public class CourseReplacementRepositoryImpl implements CourseReplacementReposit
     @Override
     public CourseReplacement findByCourseCodesAndMajor(String oldCourseCode, String newCourseCode, String majorCode) {
         QueryWrapper<CourseReplacement> queryWrapper = new QueryWrapper<>();
-
         // 构造查询条件
-        queryWrapper.eq("oldCourseCode", oldCourseCode)
-                .eq("newCourseCode", newCourseCode)
-                .eq("majorCode", majorCode);
-
+        queryWrapper.eq("old_course_code", oldCourseCode)
+                .eq("new_course_code", newCourseCode)
+                .eq("major_code", majorCode);
         // 使用 MyBatis-Plus 的 getOne 方法获取一条记录
         return courseReplacementMapper.selectOne(queryWrapper);
     }
