@@ -1,5 +1,6 @@
 package com.uestc.summer2025.data.entity;
 
+import com.baomidou.mybatisplus.annotation.TableField;
 import com.uestc.summer2025.base.CommonBaseEntity;
 import com.baomidou.mybatisplus.annotation.TableName;
 import lombok.Data;
@@ -26,22 +27,27 @@ public class CourseReplacement extends CommonBaseEntity<CourseReplacement> {
 
     // 被替换的旧课程代码
     @NonNull
+    @TableField("old_course_code")
     private String oldCourseCode;
 
     // 替代的新课程代码
     @NonNull
+    @TableField("new_course_code")
     private String newCourseCode;
 
     // 适用专业代码（可为空，通用替换)
     @NonNull
+    @TableField("major_code")
     private String majorCode;
 
     // 生效起始日期
     @NonNull
+    @TableField("effective_from")
     private LocalDate effectiveFrom;
 
     // 生效截止日期
     @NonNull
+    @TableField("effective_to")
     private LocalDate effectiveTo;
 
 }
