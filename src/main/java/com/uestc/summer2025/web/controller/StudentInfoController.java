@@ -19,6 +19,18 @@ public class StudentInfoController {
     @Autowired
     private StudentInfoMapper studentInfoMapper;
 
+    @PostMapping("/loadById")
+    public R<StudentInfo> loadById(@RequestBody String id) {
+        try {
+            QueryWrapper<StudentInfo> queryWrapper = new QueryWrapper<>();
+            queryWrapper.eq("student_id", id)
+                    .eq("is_deleted", 0);
+            return R.success(studentInfoMapper.selectOne(queryWrapper));
+        } catch (Exception e) {
+            return R.failed(e.getMessage());
+        }
+    }
+
     @PostMapping("/loadByIdNumber")
     public R<StudentInfo> loadByIdNumber(@RequestBody String idNumber) {
         try {
