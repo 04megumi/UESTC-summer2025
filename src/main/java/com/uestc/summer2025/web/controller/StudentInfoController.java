@@ -3,9 +3,12 @@ package com.uestc.summer2025.web.controller;
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import com.uestc.summer2025.data.entity.StudentInfo;
+import com.uestc.summer2025.data.mapper.ExemptionApplicationMapper;
 import com.uestc.summer2025.data.mapper.StudentInfoMapper;
 import com.uestc.summer2025.service.TransformService;
 import com.uestc.summer2025.util.R;
+import com.uestc.summer2025.web.dto.StudentInfoChange1DTO;
+import com.uestc.summer2025.web.dto.StudentInfoChange2DTO;
 import com.uestc.summer2025.web.dto.StudentPageDTO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
@@ -29,6 +32,9 @@ public class StudentInfoController {
 
     @Autowired
     private TransformService transformService;
+
+    @Autowired
+    private ExemptionApplicationMapper exemptionApplicationMapper;
 
     /**
      * 根据学生ID查询学生信息
@@ -225,6 +231,102 @@ public class StudentInfoController {
             return R.success(result);
         } catch (Exception e) {
             return R.failed("分页查询失败：" + e.getMessage());
+        }
+    }
+
+    /**
+     * 学生信息修改接口（仅限地址与电话）
+     *
+     * 请求方式：POST
+     * 请求路径：/student-change
+     *
+     * 请求参数（JSON 格式）：
+     * {
+     *     "name": "学生姓名",
+     *     "address": "新地址",
+     *     "phone": "新手机号"
+     * }
+     *
+     * 说明：
+     * - 根据学生姓名查找对应记录；
+     * - 更新其地址与电话信息；
+     * - 若学生不存在，则返回失败响应。
+     *
+     * @param studentInfoChange1DTO 包含学生姓名、地址、电话的 DTO 对象
+     * @return 操作结果的统一响应结构 R
+     */
+    @PostMapping("/student-change")
+    public R<String> student0change(@RequestBody StudentInfoChange1DTO studentInfoChange1DTO) {
+        try {
+            QueryWrapper<StudentInfo> queryWrapper = new QueryWrapper<>();
+            queryWrapper.eq("name", studentInfoChange1DTO.getName());
+            StudentInfo studentInfo = studentInfoMapper.selectOne(queryWrapper);
+
+            if (studentInfo == null) {
+                return R.failed("该学生不存在，无法修改信息");
+            }
+
+            studentInfo.setAddress(studentInfoChange1DTO.getAddress());
+            studentInfo.setPhone(studentInfoChange1DTO.getPhone());
+
+            System.out.println(studentInfo);
+
+            int rows = studentInfoMapper.updateById(studentInfo);
+            if (rows > 0) {
+                return R.success("信息修改成功");
+            } else {
+                return R.failed("信息修改失败");
+            }
+        } catch (Exception e) {
+            return R.failed("信息修改出错：" + e.getMessage());
+        }
+    }
+
+    /**
+     * 学生信息修改接口（修改姓名、身份证号、冻结状态）
+     *
+     * 请求方式：POST
+     * 请求路径：/student-info-update
+     *
+     * 请求参数（JSON 格式）：
+     * {
+     *     "name": "原姓名",
+     *     "newName": "新姓名",
+     *     "numberId": "新身份证号",
+     *     "frozened": true
+     * }
+     *
+     * 说明：
+     * - 根据原姓名查找学生；
+     * - 修改其姓名、身份证号及是否冻结（frozened）字段；
+     * - 若找不到学生，返回失败提示。
+     *
+     * @param dto 学生信息修改 DTO（含原姓名、新姓名、新身份证号、是否冻结）
+     * @return 操作结果的统一响应结构 R
+     */
+    @PostMapping("/student-info-update")
+    public R<String> updateStudentInfo(@RequestBody StudentInfoChange2DTO dto) {
+        try {
+            QueryWrapper<StudentInfo> queryWrapper = new QueryWrapper<>();
+            queryWrapper.eq("name", dto.getName());
+            StudentInfo studentInfo = studentInfoMapper.selectOne(queryWrapper);
+
+            if (studentInfo == null) {
+                return R.failed("该学生不存在，无法修改信息");
+            }
+
+            studentInfo.setName(dto.getNewName());
+            studentInfo.setIdNumber(dto.getNumberId());
+            studentInfo.setFrozened(dto.isFrozened());
+
+            int rows = studentInfoMapper.updateById(studentInfo);
+            if (rows > 0) {
+                return R.success("学生信息修改成功");
+            } else {
+                return R.failed("学生信息修改失败");
+            }
+        } catch (Exception e) {
+            return R.failed("学生信息修改出错：" + e.getMessage());
         }
     }
 }

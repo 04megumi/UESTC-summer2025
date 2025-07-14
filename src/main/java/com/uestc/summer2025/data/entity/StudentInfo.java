@@ -1,5 +1,6 @@
 package com.uestc.summer2025.data.entity;
 
+import com.baomidou.mybatisplus.annotation.TableId;
 import com.uestc.summer2025.base.CommonBaseEntity;
 import com.baomidou.mybatisplus.annotation.TableName;
 import lombok.Data;
@@ -28,6 +29,7 @@ public class StudentInfo extends CommonBaseEntity<StudentInfo> {
 
     // 考籍号（主键）
     @NonNull
+    @TableId
     private String studentId;
 
     // 姓名
