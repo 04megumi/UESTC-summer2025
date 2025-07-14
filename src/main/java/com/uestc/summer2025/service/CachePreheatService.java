@@ -64,7 +64,7 @@ public class CachePreheatService {
      * 课程信息、专业信息、考试院信息缓存为整体列表。
      * 专业必修课程按专业代码拆分缓存，便于查询。
      */
-    @PostConstruct
+    //@PostConstruct
     public void preheatCache() {
         List<CourseInfo> courses = courseInfoMapper.selectList(null);
         redisTemplate.opsForValue().set(RedisCacheKeys.COURSE_ALL, courses);

@@ -4,6 +4,7 @@ import com.uestc.summer2025.base.CommonBaseEntity;
 import com.baomidou.mybatisplus.annotation.TableName;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
+import lombok.NoArgsConstructor;
 import lombok.NonNull;
 
 import java.io.Serial;
@@ -17,6 +18,7 @@ import java.io.Serial;
  */
 @Data
 @EqualsAndHashCode(callSuper = true)
+@NoArgsConstructor
 @TableName("AdminInfo")
 public class AdminInfo extends CommonBaseEntity<AdminInfo> {
 
@@ -41,6 +43,7 @@ public class AdminInfo extends CommonBaseEntity<AdminInfo> {
     private String email;
 
     // 州级考试院ID（外键）
-    private String examCenterId;
+    @NonNull
+    private String examCenterName;
 
 }

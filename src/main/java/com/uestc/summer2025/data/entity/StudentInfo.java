@@ -4,6 +4,7 @@ import com.uestc.summer2025.base.CommonBaseEntity;
 import com.baomidou.mybatisplus.annotation.TableName;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
+import lombok.NoArgsConstructor;
 import lombok.NonNull;
 
 import java.io.Serial;
@@ -18,6 +19,7 @@ import java.time.LocalDate;
  */
 @Data
 @EqualsAndHashCode(callSuper = true)
+@NoArgsConstructor
 @TableName("StudentInfo")
 public class StudentInfo extends CommonBaseEntity<StudentInfo> {
 
