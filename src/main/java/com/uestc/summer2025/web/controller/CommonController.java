@@ -225,4 +225,58 @@ public class CommonController {
             return R.failed(e.getMessage());
         }
     }
+
+    /**
+     * 查询学生总数
+     *
+     * 接口 URL: GET /student-info/countStudent
+     * 返回值: 学生总数量
+     */
+    @GetMapping("/countStudent")
+    public R<Integer> countStudents() {
+        try {
+            QueryWrapper<StudentInfo> wrapper = new QueryWrapper<>();
+            wrapper.eq("is_deleted", 0);
+            int count = studentInfoMapper.selectCount(wrapper);
+            return R.success(count);
+        } catch (Exception e) {
+            return R.failed("查询学生总数失败：" + e.getMessage());
+        }
+    }
+
+    /**
+     * 查询男生数量
+     *
+     * 接口 URL: GET /student-info/count-male
+     * 返回值: 男生数量
+     */
+    @GetMapping("/count-male")
+    public R<Integer> countMaleStudents() {
+        try {
+            QueryWrapper<StudentInfo> wrapper = new QueryWrapper<>();
+            wrapper.eq("is_deleted", 0).eq("gender", "男");
+            int count = studentInfoMapper.selectCount(wrapper);
+            return R.success(count);
+        } catch (Exception e) {
+            return R.failed("查询男生数量失败：" + e.getMessage());
+        }
+    }
+
+    /**
+     * 查询管理员总数
+     *
+     * 接口 URL: GET /admin-info/count
+     * 返回值: 管理员总数量
+     */
+    @GetMapping("/admin-info/count")
+    public R<Integer> countAdmins() {
+        try {
+            QueryWrapper<AdminInfo> wrapper = new QueryWrapper<>();
+            wrapper.eq("is_deleted", 0);
+            int count = adminInfoMapper.selectCount(wrapper);
+            return R.success(count);
+        } catch (Exception e) {
+            return R.failed("查询管理员总数失败：" + e.getMessage());
+        }
+    }
 }
