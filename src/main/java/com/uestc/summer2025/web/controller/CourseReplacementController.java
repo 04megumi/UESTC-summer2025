@@ -1,6 +1,7 @@
 package com.uestc.summer2025.web.controller;
 
 import com.uestc.summer2025.data.repository.CourseReplacementRepository;
+import com.uestc.summer2025.service.CourseReplacementService;
 import com.uestc.summer2025.web.dto.CourseReplacementDTO;
 import com.uestc.summer2025.web.vo.CourseReplacementVO;
 import com.uestc.summer2025.util.R;
@@ -15,7 +16,7 @@ import java.util.List;
 public class CourseReplacementController {
 
     @Autowired
-    private CourseReplacementRepository courseReplacementRepository;
+    private CourseReplacementService courseReplacementService;
 
     /**
      * 课程替换相关接口
@@ -33,7 +34,11 @@ public class CourseReplacementController {
      */
     @PostMapping("/add")
     public R<String> addReplacement(@RequestBody CourseReplacementDTO dto) {
-        return R.success("Success");
+        try {
+            return courseReplacementService.addCourseReplacement(dto) ? R.success() : R.failed();
+        } catch (Exception e) {
+            return R.failed(e.getMessage());
+        }
     }
 
     /**
@@ -52,7 +57,11 @@ public class CourseReplacementController {
      */
     @PostMapping("/delete")
     public R<String> deleteReplacement(@RequestBody CourseReplacementDTO dto) {
-        return R.success("Success");
+        try {
+            return courseReplacementService.deleteCourseReplacement(dto) ? R.success() : R.failed();
+        } catch (Exception e) {
+            return R.failed(e.getMessage());
+        }
     }
 
     /**

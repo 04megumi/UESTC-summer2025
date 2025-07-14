@@ -6,12 +6,10 @@ import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import com.uestc.summer2025.data.entity.CourseReplacement;
 import com.uestc.summer2025.data.mapper.CourseReplacementMapper;
 import com.uestc.summer2025.data.repository.CourseReplacementRepository;
-import com.uestc.summer2025.web.vo.CourseReplacementVO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 
 import java.util.List;
-import java.util.stream.Collectors;
 
 @Repository
 public class CourseReplacementRepositoryImpl implements CourseReplacementRepository {
@@ -40,35 +38,32 @@ public class CourseReplacementRepositoryImpl implements CourseReplacementReposit
         return result > 0;
     }
 
-
     @Override
-    public List<CourseReplacementVO> loadAllCourseReplacement() {
+    public List<CourseReplacement> loadAllCourseReplacement() {
         // 查询所有 CourseReplacement 数据
-        List<CourseReplacement> courseReplacementList = courseReplacementMapper.selectList(null);
-        // 将 CourseReplacement 转换成 CourseReplacementVO 并返回
-        return courseReplacementList.stream()
-                .map(this::toVO)
-                .collect(Collectors.toList());
+        return courseReplacementMapper.selectList(null);
     }
 
     @Override
-    public List<CourseReplacementVO> loadCourseReplacementByPage(int pageNum, int pageSize) {
+    public List<CourseReplacement> loadCourseReplacementByPage(int pageNum, int pageSize) {
         // 使用 Page 对象进行分页查询
         Page<CourseReplacement> page = new Page<>(pageNum, pageSize);
         // 查询分页数据
         IPage<CourseReplacement> courseReplacementPage = courseReplacementMapper.selectPage(page, null);
-        // 将 CourseReplacement 转换成 CourseReplacementVO 并返回
-        return courseReplacementPage.getRecords().stream()
-                .map(this::toVO)
-                .collect(Collectors.toList());
+        // 返回分页结果
+        return courseReplacementPage.getRecords();
     }
 
-
-    /**
-     * 通过实体转换成VO，并做名字映射
-     */
     @Override
-    public CourseReplacementVO toVO(CourseReplacement entity) {
-        return new CourseReplacementVO();
+    public CourseReplacement findByCourseCodesAndMajor(String oldCourseCode, String newCourseCode, String majorCode) {
+        QueryWrapper<CourseReplacement> queryWrapper = new QueryWrapper<>();
+
+        // 构造查询条件
+        queryWrapper.eq("oldCourseCode", oldCourseCode)
+                .eq("newCourseCode", newCourseCode)
+                .eq("majorCode", majorCode);
+
+        // 使用 MyBatis-Plus 的 getOne 方法获取一条记录
+        return courseReplacementMapper.selectOne(queryWrapper);
     }
 }

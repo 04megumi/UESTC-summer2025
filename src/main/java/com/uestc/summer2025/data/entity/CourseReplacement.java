@@ -32,7 +32,8 @@ public class CourseReplacement extends CommonBaseEntity<CourseReplacement> {
     @NonNull
     private String newCourseCode;
 
-    // 适用专业代码（可为空，通用替换）
+    // 适用专业代码（可为空，通用替换)
+    @NonNull
     private String majorCode;
 
     // 生效起始日期
@@ -40,6 +41,7 @@ public class CourseReplacement extends CommonBaseEntity<CourseReplacement> {
     private LocalDate effectiveFrom;
 
     // 生效截止日期
+    @NonNull
     private LocalDate effectiveTo;
 
 }
