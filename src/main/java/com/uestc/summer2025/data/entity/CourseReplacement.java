@@ -3,10 +3,7 @@ package com.uestc.summer2025.data.entity;
 import com.baomidou.mybatisplus.annotation.TableField;
 import com.uestc.summer2025.base.CommonBaseEntity;
 import com.baomidou.mybatisplus.annotation.TableName;
-import lombok.AllArgsConstructor;
-import lombok.Data;
-import lombok.EqualsAndHashCode;
-import lombok.NonNull;
+import lombok.*;
 
 import java.io.Serial;
 import java.time.LocalDate;
@@ -21,6 +18,7 @@ import java.time.LocalDate;
 @Data
 @EqualsAndHashCode(callSuper = true)
 @AllArgsConstructor
+@NoArgsConstructor
 @TableName("CourseReplacement")
 public class CourseReplacement extends CommonBaseEntity<CourseReplacement> {
 

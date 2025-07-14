@@ -1,7 +1,7 @@
 -- 考生信息表
 CREATE TABLE IF NOT EXISTS StudentInfo (
     student_id CHAR(36) PRIMARY KEY COMMENT '考籍号（主键，UUID）',
-    name VARCHAR(50) NOT NULL COMMENT '姓名',
+    name VARCHAR(50) UNIQUE KEY NOT NULL COMMENT '姓名',
     id_number CHAR(18) UNIQUE NOT NULL COMMENT '身份证号（唯一）',
     password VARCHAR(255) NOT NULL COMMENT '加密后的密码',
     major_code VARCHAR(20) NOT NULL COMMENT '报考专业代码（外键）',

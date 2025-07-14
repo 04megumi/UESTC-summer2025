@@ -19,6 +19,8 @@ import org.springframework.web.bind.annotation.RestController;
 import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Set;
+import java.util.stream.Collectors;
 
 /**
  * 免考申请控制器
@@ -51,6 +53,9 @@ public class ApplicationController {
 
     @Autowired
     CourseReplacementApplicationMapper courseReplacementApplicationMapper;
+
+    @Autowired
+    StudentCourseMapper studentCourseMapper;
 
     /**
      * 学生提交免考申请接口
@@ -277,40 +282,77 @@ public class ApplicationController {
     @PostMapping("/course/student-apply")
     public R<String> studentCourseApply(@RequestBody CourseReplacementApplication1DTO dto) {
         try {
-            // 1. 根据学生姓名查出 studentId
+            // 1. 根据学生姓名查 studentId 和专业
             QueryWrapper<StudentInfo> studentWrapper = new QueryWrapper<>();
             studentWrapper.eq("name", dto.getStudentName()).eq("is_deleted", 0);
             StudentInfo student = studentInfoMapper.selectOne(studentWrapper);
             if (student == null) return R.failed("学生不存在");
-            // 2. 检查旧课程是否存在（course_code是否有效）
-            QueryWrapper<CourseInfo> oldCourseWrapper = new QueryWrapper<>();
-            oldCourseWrapper.eq("course_code", transformService.courseNameToId(dto.getOldCourseName())).eq("is_deleted", 0);
-            CourseInfo oldCourse = courseInfoMapper.selectOne(oldCourseWrapper);
+            String studentId = student.getStudentId();
+            String majorCode = student.getMajorCode();
+
+            // 2. 获取旧/新课程代码（由名称转换）
+            String oldCourseCode = transformService.courseNameToId(dto.getOldCourseName());
+            String newCourseCode = transformService.courseNameToId(dto.getNewCourseName());
+
+            // 校验旧课程
+            CourseInfo oldCourse = courseInfoMapper.selectOne(
+                    new QueryWrapper<CourseInfo>().eq("course_code", oldCourseCode).eq("is_deleted", 0)
+            );
             if (oldCourse == null) return R.failed("被替换的旧课程不存在");
-            // 3. 检查新课程是否存在
-            QueryWrapper<CourseInfo> newCourseWrapper = new QueryWrapper<>();
-            newCourseWrapper.eq("course_code", transformService.courseNameToId(dto.getNewCourseName())).eq("is_deleted", 0);
-            CourseInfo newCourse = courseInfoMapper.selectOne(newCourseWrapper);
+
+            // 校验新课程
+            CourseInfo newCourse = courseInfoMapper.selectOne(
+                    new QueryWrapper<CourseInfo>().eq("course_code", newCourseCode).eq("is_deleted", 0)
+            );
             if (newCourse == null) return R.failed("替代的新课程不存在");
-            // 4. 查询考试中心管理员
+
+            // 3. 判断学生是否修过旧课程
+            boolean hasCompletedOldCourse = studentCourseMapper.selectCount(
+                    new QueryWrapper<StudentCourse>()
+                            .eq("student_id", studentId)
+                            .eq("course_code", oldCourseCode)
+                            .eq("is_deleted", 0)
+            ) > 0;
+
+            // 4. 查询 CourseReplacement 表，看是否存在匹配该专业或通用的课程替换规则
+            boolean isReplaceable = courseReplacementMapper.selectCount(
+                    new QueryWrapper<CourseReplacement>()
+                            .eq("old_course_code", oldCourseCode)
+                            .eq("new_course_code", newCourseCode)
+                            .eq("is_deleted", 0)
+                            .and(wrapper -> wrapper.eq("major_code", majorCode).or().isNull("major_code"))
+            ) > 0;
+
+            // 5. 查询考试中心管理员
             String examCenterName = student.getExamCenterName();
-            QueryWrapper<AdminInfo> adminWrapper = new QueryWrapper<>();
-            adminWrapper.eq("exam_center_name", examCenterName).eq("is_deleted", 0);
-            AdminInfo adminInfo = adminInfoMapper.selectOne(adminWrapper);
-            if (adminInfo == null) return R.failed("考试中心不存在或管理员不存在");
-            // 5. 构造课程替换申请实体
+            AdminInfo admin = adminInfoMapper.selectOne(
+                    new QueryWrapper<AdminInfo>().eq("exam_center_name", examCenterName).eq("is_deleted", 0)
+            );
+            if (admin == null) return R.failed("考试中心不存在或管理员不存在");
+
+            // 6. 构建申请实体
             CourseReplacementApplication application = new CourseReplacementApplication();
-            application.setApplicationId(System.currentTimeMillis()); // 简单生成唯一ID
-            application.setStudentId(student.getStudentId());
-            application.setOldCourseCode(transformService.courseNameToId(dto.getOldCourseName()));
-            application.setNewCourseCode(transformService.courseNameToId(dto.getNewCourseName()));
+            application.setApplicationId(System.currentTimeMillis());
+            application.setStudentId(studentId);
+            application.setOldCourseCode(oldCourseCode);
+            application.setNewCourseCode(newCourseCode);
             application.setReason(dto.getReason());
-            application.setStatus("待审核");
-            application.setAdminId(adminInfo.getAdminId());
             application.setApplyTime(LocalDateTime.now());
-            // 6. 插入数据库
+            application.setAdminId(admin.getAdminId());
+
+            // 7. 判断是否满足自动通过条件
+            if (hasCompletedOldCourse && isReplaceable) {
+                application.setStatus("通过");
+                application.setReviewTime(LocalDateTime.now());
+                application.setReviewReason("已完成旧课程，符合课程替换规则，自动审批通过");
+            } else {
+                application.setStatus("待审核");
+            }
+
+            // 8. 插入数据库
             int result = courseReplacementApplicationMapper.insert(application);
             return result > 0 ? R.success("课程替换申请提交成功") : R.failed("课程替换申请提交失败");
+
         } catch (Exception e) {
             return R.failed("课程替换申请异常：" + e.getMessage());
         }
@@ -411,6 +453,79 @@ public class ApplicationController {
     }
 
     /**
+     * 自动加载学生可申请课程替换建议
+     *
+     * 请求方式：POST
+     * 请求路径：/application/course/auto-student-load
+     *
+     * 请求参数（JSON）：
+     * {
+     *     "name": "学生姓名"   // 根据姓名查找对应的 studentId 和专业
+     * }
+     *
+     * 返回值：
+     * 返回该学生已修过但可以申请课程替换的建议列表（封装为 CourseReplacementApplicationVO），用于前端自动提示。
+     *
+     * 实现逻辑：
+     * 1. 根据学生姓名查找学生基本信息（获取 studentId 和专业 majorCode）
+     * 2. 查询 student_course 表中该学生已修课程列表
+     * 3. 查询 CourseReplacement 表中所有未删除的课程替换规则：
+     *      - 匹配当前学生专业的
+     *      - 或通用替换（major_code 为 NULL）
+     * 4. 遍历替换规则，如果学生修过 old_course_code，则说明可以自动生成一条替换建议
+     * 5. 构造 CourseReplacementApplicationVO 返回前端（未提交状态，applicationId 为 null）
+     */
+    @PostMapping("/course/auto-student-load")
+    public R<List<CourseReplacementApplicationVO>> autoCourseStudentLoad(@RequestBody NameDTO nameDTO) {
+        try {
+            // 1. 根据学生姓名查 studentId
+            QueryWrapper<StudentInfo> studentWrapper = new QueryWrapper<>();
+            studentWrapper.eq("name", nameDTO.getName()).eq("is_deleted", 0);
+            StudentInfo student = studentInfoMapper.selectOne(studentWrapper);
+            if (student == null) return R.failed("学生不存在");
+            String studentId = student.getStudentId();
+            String majorCode = student.getMajorCode();
+            // 2. 查询学生修过的课程 student_course 表
+            QueryWrapper<StudentCourse> studentCourseWrapper = new QueryWrapper<>();
+            studentCourseWrapper.eq("student_id", studentId).eq("is_deleted", 0);
+            List<StudentCourse> studentCourses = studentCourseMapper.selectList(studentCourseWrapper);
+            // 构建一个 hashSet，加速课程是否修过判断
+            Set<String> completedCourseCodes = studentCourses.stream()
+                    .map(StudentCourse::getCourseCode)
+                    .collect(Collectors.toSet());
+            // 3. 查询所有课程替换关系（通用+匹配该专业）
+            QueryWrapper<CourseReplacement> replacementWrapper = new QueryWrapper<>();
+            replacementWrapper.eq("is_deleted", 0)
+                    .and(wrapper -> wrapper
+                            .eq("major_code", majorCode)
+                            .or().isNull("major_code")); // 通用替换也算
+            List<CourseReplacement> replacements = courseReplacementMapper.selectList(replacementWrapper);
+            // 4. 遍历：如果学生修过 old_course_code，则建议替换为 new_course_code
+            List<CourseReplacementApplicationVO> voList = new ArrayList<>();
+            for (CourseReplacement replacement : replacements) {
+                if (completedCourseCodes.contains(replacement.getOldCourseCode())) {
+                    CourseReplacementApplicationVO vo = new CourseReplacementApplicationVO();
+                    vo.setApplicationId(null); // 尚未提交，设为 null
+                    vo.setStudentId(studentId);
+                    vo.setOldCourseCode(replacement.getOldCourseCode());
+                    vo.setNewCourseCode(replacement.getNewCourseCode());
+                    vo.setStatus("待审批");
+                    vo.setReason("你已完成旧课程，可自动申请替换");
+                    vo.setOldCourseName(transformService.courseIdToName(replacement.getOldCourseCode()));
+                    vo.setNewCourseName(transformService.courseIdToName(replacement.getNewCourseCode()));
+                    vo.setAdminId(null); // 尚未审批
+                    vo.setReviewReason(null);
+                    vo.setUpdateTime(null);
+                    voList.add(vo);
+                }
+            }
+            return R.success(voList);
+        } catch (Exception e) {
+            return R.failed("加载学生课程替换记录失败：" + e.getMessage());
+        }
+    }
+
+    /**
      * 根据管理员姓名分页查询其审批的课程替换申请记录
      *
      * 请求方式：POST
@@ -476,6 +591,78 @@ public class ApplicationController {
             return R.success(voList);
         } catch (Exception e) {
             return R.failed("加载管理员课程替换记录失败：" + e.getMessage());
+        }
+    }
+
+    @PostMapping("/course/admin-auto-apply")
+    public R<List<Long>> courseAdminAutoApply(@RequestBody NameDTO nameDTO) {
+        try {
+            // 1. 根据管理员姓名查询 admin_id
+            QueryWrapper<AdminInfo> adminWrapper = new QueryWrapper<>();
+            adminWrapper.eq("full_name", nameDTO.getName()).eq("is_deleted", 0);
+            AdminInfo admin = adminInfoMapper.selectOne(adminWrapper);
+            if (admin == null) return R.failed("管理员不存在");
+            String adminId = admin.getAdminId();
+
+            // 2. 查询该管理员所有待审批的课程替换申请
+            QueryWrapper<CourseReplacementApplication> applicationWrapper = new QueryWrapper<>();
+            applicationWrapper.eq("admin_id", adminId)
+                    .eq("status", "待审核")
+                    .eq("is_deleted", 0);
+            List<CourseReplacementApplication> applications = courseReplacementApplicationMapper.selectList(applicationWrapper);
+
+            List<Long> approvedApplicationIds = new ArrayList<>();
+
+            for (CourseReplacementApplication app : applications) {
+                // 3. 查询申请学生信息
+                StudentInfo student = studentInfoMapper.selectById(app.getStudentId());
+                if (student == null) continue; // 学生不存在则跳过
+
+                // 4. 查询学生修过的课程
+                QueryWrapper<StudentCourse> studentCourseWrapper = new QueryWrapper<>();
+                studentCourseWrapper.eq("student_id", student.getStudentId())
+                        .eq("is_deleted", 0);
+                List<StudentCourse> studentCourses = studentCourseMapper.selectList(studentCourseWrapper);
+
+                Set<String> completedCourseCodes = studentCourses.stream()
+                        .map(StudentCourse::getCourseCode)
+                        .collect(Collectors.toSet());
+
+                // 5. 查询该学生专业对应的课程替换规则（包含通用）
+                QueryWrapper<CourseReplacement> replacementWrapper = new QueryWrapper<>();
+                replacementWrapper.eq("is_deleted", 0)
+                        .and(w -> w.eq("major_code", student.getMajorCode())
+                                .or().isNull("major_code"));
+                List<CourseReplacement> replacements = courseReplacementMapper.selectList(replacementWrapper);
+
+                // 6. 判断该申请是否符合自动审批条件
+                boolean canAutoApprove = false;
+                for (CourseReplacement replacement : replacements) {
+                    if (replacement.getOldCourseCode().equals(app.getOldCourseCode())
+                            && replacement.getNewCourseCode().equals(app.getNewCourseCode())
+                            && completedCourseCodes.contains(replacement.getOldCourseCode())) {
+                        canAutoApprove = true;
+                        break;
+                    }
+                }
+
+                // 7. 若符合自动审批，则更新申请状态为“通过”
+                if (canAutoApprove) {
+                    app.setStatus("通过");
+                    app.setReviewTime(LocalDateTime.now());
+                    app.setReviewReason("自动审批通过：学生已完成旧课程，符合替换条件");
+                    app.setAdminId(adminId); // 确保审批人是当前管理员
+                    int updateCount = courseReplacementApplicationMapper.updateById(app);
+                    if (updateCount > 0) {
+                        approvedApplicationIds.add(app.getApplicationId());
+                    }
+                }
+            }
+
+            return R.success(approvedApplicationIds);
+
+        } catch (Exception e) {
+            return R.failed("自动审批异常：" + e.getMessage());
         }
     }
 }

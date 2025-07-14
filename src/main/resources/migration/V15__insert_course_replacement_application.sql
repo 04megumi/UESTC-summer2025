@@ -2,21 +2,6 @@ INSERT INTO CourseReplacementApplication (
     application_id, student_id, old_course_code, new_course_code, reason,
     status, apply_time, admin_id, version, is_deleted, frozened, created_by, updated_by
 ) VALUES (
-    2000000000001,
-    (SELECT student_id FROM StudentInfo WHERE name = '张三' LIMIT 1),
-    'LIT101',
-    'LIT102',
-    '课程调整或教学计划变化',
-    '待审核',
-    NOW(),
-    (SELECT admin_id FROM AdminInfo WHERE exam_center_name = '北京考试院' AND is_deleted = 0 LIMIT 1),
-    0, 0, 0, 'admin', 'admin'
-);
-
-INSERT INTO CourseReplacementApplication (
-    application_id, student_id, old_course_code, new_course_code, reason,
-    status, apply_time, admin_id, version, is_deleted, frozened, created_by, updated_by
-) VALUES (
     2000000000002,
     (SELECT student_id FROM StudentInfo WHERE name = '张三' LIMIT 1),
     'LIT103',

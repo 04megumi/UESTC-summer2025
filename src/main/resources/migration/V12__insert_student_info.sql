@@ -1,4 +1,4 @@
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8,7 +8,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18,7 +18,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28,7 +28,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -38,7 +38,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -48,7 +48,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -58,7 +58,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -68,7 +68,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -78,7 +78,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -88,7 +88,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -98,7 +98,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -108,7 +108,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -118,7 +118,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -128,7 +128,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -138,7 +138,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -148,7 +148,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -158,7 +158,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -168,7 +168,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -178,7 +178,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -188,7 +188,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -198,7 +198,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -208,7 +208,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -218,7 +218,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -228,7 +228,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -238,7 +238,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -248,7 +248,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -258,7 +258,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -268,7 +268,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -278,7 +278,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -288,7 +288,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -298,7 +298,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -308,7 +308,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -318,7 +318,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -328,7 +328,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -338,7 +338,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -348,7 +348,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -358,7 +358,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -368,7 +368,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -378,7 +378,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -388,7 +388,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -398,7 +398,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -408,7 +408,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -418,7 +418,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -428,7 +428,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -438,7 +438,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -448,7 +448,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -458,7 +458,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -468,7 +468,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -478,7 +478,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -488,7 +488,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -498,7 +498,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -508,7 +508,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -518,7 +518,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -528,7 +528,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -538,7 +538,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -548,7 +548,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -558,7 +558,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -568,7 +568,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -578,7 +578,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -588,7 +588,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -598,7 +598,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -608,7 +608,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -618,7 +618,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -628,7 +628,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -638,7 +638,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -648,7 +648,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -658,7 +658,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -668,7 +668,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -678,7 +678,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -688,7 +688,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -698,7 +698,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -708,7 +708,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -718,7 +718,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -728,7 +728,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -738,7 +738,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -748,7 +748,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -758,7 +758,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -768,7 +768,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -778,7 +778,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -788,7 +788,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -798,7 +798,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -808,7 +808,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -818,7 +818,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -828,7 +828,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -838,7 +838,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -848,7 +848,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -858,7 +858,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -868,7 +868,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -878,7 +878,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -888,7 +888,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -898,7 +898,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -908,7 +908,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -918,7 +918,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -928,7 +928,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -938,7 +938,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -948,7 +948,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -958,7 +958,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -968,7 +968,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -978,7 +978,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -988,7 +988,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -998,7 +998,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1008,7 +1008,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1018,7 +1018,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1028,7 +1028,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1038,7 +1038,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1048,7 +1048,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1058,7 +1058,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1068,7 +1068,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1078,7 +1078,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1088,7 +1088,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1098,7 +1098,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1108,7 +1108,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1118,7 +1118,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1128,7 +1128,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1138,7 +1138,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1148,7 +1148,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1158,7 +1158,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1168,7 +1168,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1178,7 +1178,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1188,7 +1188,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1198,7 +1198,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1208,7 +1208,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1218,7 +1218,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1228,7 +1228,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1238,7 +1238,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1248,7 +1248,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1258,7 +1258,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1268,7 +1268,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1278,7 +1278,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1288,7 +1288,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1298,7 +1298,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1308,7 +1308,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1318,7 +1318,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1328,7 +1328,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1338,7 +1338,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1348,7 +1348,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1358,7 +1358,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1368,7 +1368,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1378,7 +1378,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1388,7 +1388,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1398,7 +1398,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1408,7 +1408,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1418,7 +1418,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1428,7 +1428,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1438,7 +1438,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1448,7 +1448,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1458,7 +1458,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1468,7 +1468,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1478,7 +1478,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1488,7 +1488,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1498,7 +1498,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1508,7 +1508,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1518,7 +1518,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1528,7 +1528,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1538,7 +1538,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1548,7 +1548,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1558,7 +1558,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1568,7 +1568,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1578,7 +1578,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1588,7 +1588,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1598,7 +1598,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1608,7 +1608,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1618,7 +1618,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1628,7 +1628,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1638,7 +1638,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1648,7 +1648,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1658,7 +1658,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1668,7 +1668,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1678,7 +1678,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1688,7 +1688,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1698,7 +1698,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1708,7 +1708,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1718,7 +1718,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1728,7 +1728,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1738,7 +1738,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1748,7 +1748,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1758,7 +1758,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1768,7 +1768,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1778,7 +1778,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1788,7 +1788,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1798,7 +1798,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1808,7 +1808,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1818,7 +1818,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1828,7 +1828,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1838,7 +1838,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1848,7 +1848,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1858,7 +1858,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1868,7 +1868,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1878,7 +1878,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1888,7 +1888,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1898,7 +1898,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1908,7 +1908,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1918,7 +1918,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1928,7 +1928,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1938,7 +1938,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1948,7 +1948,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1958,7 +1958,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1968,7 +1968,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1978,7 +1978,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1988,7 +1988,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -1998,7 +1998,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2008,7 +2008,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2018,7 +2018,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2028,7 +2028,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2038,7 +2038,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2048,7 +2048,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2058,7 +2058,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2068,7 +2068,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2078,7 +2078,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2088,7 +2088,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2098,7 +2098,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2108,7 +2108,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2118,7 +2118,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2128,7 +2128,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2138,7 +2138,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2148,7 +2148,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2158,7 +2158,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2168,7 +2168,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2178,7 +2178,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2188,7 +2188,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2198,7 +2198,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2208,7 +2208,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2218,7 +2218,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2228,7 +2228,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2238,7 +2238,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2248,7 +2248,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2258,7 +2258,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2268,7 +2268,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2278,7 +2278,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2288,7 +2288,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2298,7 +2298,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2308,7 +2308,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2318,7 +2318,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2328,7 +2328,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2338,7 +2338,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2348,7 +2348,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2358,7 +2358,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2368,7 +2368,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2378,7 +2378,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2388,7 +2388,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2398,7 +2398,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2408,7 +2408,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2418,7 +2418,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2428,7 +2428,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2438,7 +2438,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2448,7 +2448,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2458,7 +2458,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2468,7 +2468,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2478,7 +2478,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2488,7 +2488,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2498,7 +2498,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2508,7 +2508,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2518,7 +2518,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2528,7 +2528,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2538,7 +2538,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2548,7 +2548,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2558,7 +2558,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2568,7 +2568,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2578,7 +2578,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2588,7 +2588,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2598,7 +2598,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2608,7 +2608,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2618,7 +2618,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2628,7 +2628,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2638,7 +2638,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2648,7 +2648,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2658,7 +2658,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2668,7 +2668,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2678,7 +2678,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2688,7 +2688,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2698,7 +2698,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2708,7 +2708,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2718,7 +2718,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2728,7 +2728,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2738,7 +2738,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2748,7 +2748,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2758,7 +2758,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2768,7 +2768,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2778,7 +2778,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2788,7 +2788,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2798,7 +2798,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2808,7 +2808,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2818,7 +2818,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2828,7 +2828,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2838,7 +2838,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2848,7 +2848,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2858,7 +2858,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2868,7 +2868,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2878,7 +2878,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2888,7 +2888,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2898,7 +2898,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2908,7 +2908,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2918,7 +2918,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2928,7 +2928,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2938,7 +2938,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2948,7 +2948,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2958,7 +2958,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2968,7 +2968,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2978,7 +2978,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2988,7 +2988,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -2998,7 +2998,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3008,7 +3008,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3018,7 +3018,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3028,7 +3028,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3038,7 +3038,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3048,7 +3048,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3058,7 +3058,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3068,7 +3068,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3078,7 +3078,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3088,7 +3088,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3098,7 +3098,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3108,7 +3108,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3118,7 +3118,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3128,7 +3128,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3138,7 +3138,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3148,7 +3148,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3158,7 +3158,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3168,7 +3168,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3178,7 +3178,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3188,7 +3188,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3198,7 +3198,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3208,7 +3208,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3218,7 +3218,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3228,7 +3228,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3238,7 +3238,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3248,7 +3248,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3258,7 +3258,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3268,7 +3268,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3278,7 +3278,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3288,7 +3288,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3298,7 +3298,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3308,7 +3308,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3318,7 +3318,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3328,7 +3328,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3338,7 +3338,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3348,7 +3348,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3358,7 +3358,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3368,7 +3368,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3378,7 +3378,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3388,7 +3388,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3398,7 +3398,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3408,7 +3408,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3418,7 +3418,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3428,7 +3428,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3438,7 +3438,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3448,7 +3448,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3458,7 +3458,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3468,7 +3468,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3478,7 +3478,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3488,7 +3488,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3498,7 +3498,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3508,7 +3508,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3518,7 +3518,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3528,7 +3528,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3538,7 +3538,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3548,7 +3548,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3558,7 +3558,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3568,7 +3568,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3578,7 +3578,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3588,7 +3588,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3598,7 +3598,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3608,7 +3608,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3618,7 +3618,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3628,7 +3628,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3638,7 +3638,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3648,7 +3648,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3658,7 +3658,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3668,7 +3668,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3678,7 +3678,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3688,7 +3688,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3698,7 +3698,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3708,7 +3708,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3718,7 +3718,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3728,7 +3728,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3738,7 +3738,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3748,7 +3748,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3758,7 +3758,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3768,7 +3768,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3778,7 +3778,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3788,7 +3788,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3798,7 +3798,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3808,7 +3808,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3818,7 +3818,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3828,7 +3828,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3838,7 +3838,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3848,7 +3848,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3858,7 +3858,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3868,7 +3868,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3878,7 +3878,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3888,7 +3888,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3898,7 +3898,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3908,7 +3908,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3918,7 +3918,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3928,7 +3928,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3938,7 +3938,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3948,7 +3948,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3958,7 +3958,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3968,7 +3968,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3978,7 +3978,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3988,7 +3988,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -3998,7 +3998,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4008,7 +4008,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4018,7 +4018,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4028,7 +4028,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4038,7 +4038,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4048,7 +4048,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4058,7 +4058,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4068,7 +4068,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4078,7 +4078,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4088,7 +4088,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4098,7 +4098,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4108,7 +4108,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4118,7 +4118,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4128,7 +4128,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4138,7 +4138,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4148,7 +4148,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4158,7 +4158,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4168,7 +4168,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4178,7 +4178,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4188,7 +4188,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4198,7 +4198,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4208,7 +4208,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4218,7 +4218,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4228,7 +4228,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4238,7 +4238,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4248,7 +4248,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4258,7 +4258,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4268,7 +4268,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4278,7 +4278,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4288,7 +4288,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4298,7 +4298,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4308,7 +4308,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4318,7 +4318,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4328,7 +4328,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4338,7 +4338,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4348,7 +4348,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4358,7 +4358,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4368,7 +4368,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4378,7 +4378,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4388,7 +4388,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4398,7 +4398,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4408,7 +4408,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4418,7 +4418,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4428,7 +4428,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4438,7 +4438,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4448,7 +4448,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4458,7 +4458,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4468,7 +4468,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4478,7 +4478,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4488,7 +4488,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4498,7 +4498,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4508,7 +4508,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4518,7 +4518,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4528,7 +4528,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4538,7 +4538,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4548,7 +4548,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4558,7 +4558,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4568,7 +4568,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4578,7 +4578,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4588,7 +4588,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4598,7 +4598,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4608,7 +4608,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4618,7 +4618,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4628,7 +4628,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4638,7 +4638,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4648,7 +4648,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4658,7 +4658,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4668,7 +4668,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4678,7 +4678,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4688,7 +4688,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4698,7 +4698,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4708,7 +4708,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4718,7 +4718,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4728,7 +4728,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4738,7 +4738,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4748,7 +4748,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4758,7 +4758,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4768,7 +4768,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4778,7 +4778,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4788,7 +4788,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4798,7 +4798,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4808,7 +4808,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4818,7 +4818,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4828,7 +4828,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4838,7 +4838,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4848,7 +4848,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4858,7 +4858,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4868,7 +4868,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4878,7 +4878,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4888,7 +4888,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4898,7 +4898,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4908,7 +4908,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4918,7 +4918,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4928,7 +4928,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4938,7 +4938,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4948,7 +4948,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4958,7 +4958,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4968,7 +4968,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4978,7 +4978,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4988,7 +4988,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -4998,7 +4998,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5008,7 +5008,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5018,7 +5018,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5028,7 +5028,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5038,7 +5038,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5048,7 +5048,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5058,7 +5058,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5068,7 +5068,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5078,7 +5078,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5088,7 +5088,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5098,7 +5098,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5108,7 +5108,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5118,7 +5118,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5128,7 +5128,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5138,7 +5138,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5148,7 +5148,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5158,7 +5158,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5168,7 +5168,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5178,7 +5178,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5188,7 +5188,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5198,7 +5198,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5208,7 +5208,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5218,7 +5218,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5228,7 +5228,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5238,7 +5238,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5248,7 +5248,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5258,7 +5258,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5268,7 +5268,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5278,7 +5278,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5288,7 +5288,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5298,7 +5298,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5308,7 +5308,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5318,7 +5318,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5328,7 +5328,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5338,7 +5338,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5348,7 +5348,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5358,7 +5358,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5368,7 +5368,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5378,7 +5378,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5388,7 +5388,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5398,7 +5398,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5408,7 +5408,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5418,7 +5418,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5428,7 +5428,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5438,7 +5438,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5448,7 +5448,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5458,7 +5458,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5468,7 +5468,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5478,7 +5478,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5488,7 +5488,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5498,7 +5498,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5508,7 +5508,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5518,7 +5518,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5528,7 +5528,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5538,7 +5538,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5548,7 +5548,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5558,7 +5558,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5568,7 +5568,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5578,7 +5578,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5588,7 +5588,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5598,7 +5598,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5608,7 +5608,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5618,7 +5618,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5628,7 +5628,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5638,7 +5638,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5648,7 +5648,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5658,7 +5658,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5668,7 +5668,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5678,7 +5678,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5688,7 +5688,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5698,7 +5698,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5708,7 +5708,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5718,7 +5718,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5728,7 +5728,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5738,7 +5738,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5748,7 +5748,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5758,7 +5758,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5768,7 +5768,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5778,7 +5778,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5788,7 +5788,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5798,7 +5798,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5808,7 +5808,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5818,7 +5818,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5828,7 +5828,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5838,7 +5838,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5848,7 +5848,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5858,7 +5858,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5868,7 +5868,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5878,7 +5878,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5888,7 +5888,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5898,7 +5898,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5908,7 +5908,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5918,7 +5918,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5928,7 +5928,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5938,7 +5938,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5948,7 +5948,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5958,7 +5958,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5968,7 +5968,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5978,7 +5978,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5988,7 +5988,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -5998,7 +5998,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6008,7 +6008,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6018,7 +6018,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6028,7 +6028,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6038,7 +6038,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6048,7 +6048,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6058,7 +6058,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6068,7 +6068,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6078,7 +6078,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6088,7 +6088,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6098,7 +6098,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6108,7 +6108,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6118,7 +6118,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6128,7 +6128,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6138,7 +6138,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6148,7 +6148,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6158,7 +6158,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6168,7 +6168,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6178,7 +6178,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6188,7 +6188,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6198,7 +6198,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6208,7 +6208,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6218,7 +6218,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6228,7 +6228,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6238,7 +6238,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6248,7 +6248,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6258,7 +6258,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6268,7 +6268,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6278,7 +6278,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6288,7 +6288,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6298,7 +6298,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6308,7 +6308,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6318,7 +6318,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6328,7 +6328,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6338,7 +6338,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6348,7 +6348,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6358,7 +6358,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6368,7 +6368,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6378,7 +6378,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6388,7 +6388,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6398,7 +6398,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6408,7 +6408,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6418,7 +6418,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6428,7 +6428,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6438,7 +6438,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6448,7 +6448,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6458,7 +6458,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6468,7 +6468,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6478,7 +6478,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6488,7 +6488,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6498,7 +6498,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6508,7 +6508,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6518,7 +6518,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6528,7 +6528,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6538,7 +6538,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6548,7 +6548,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6558,7 +6558,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6568,7 +6568,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6578,7 +6578,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6588,7 +6588,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6598,7 +6598,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6608,7 +6608,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6618,7 +6618,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6628,7 +6628,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6638,7 +6638,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6648,7 +6648,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6658,7 +6658,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6668,7 +6668,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6678,7 +6678,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6688,7 +6688,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6698,7 +6698,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6708,7 +6708,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6718,7 +6718,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6728,7 +6728,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6738,7 +6738,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6748,7 +6748,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6758,7 +6758,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6768,7 +6768,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6778,7 +6778,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6788,7 +6788,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6798,7 +6798,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6808,7 +6808,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6818,7 +6818,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6828,7 +6828,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6838,7 +6838,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6848,7 +6848,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6858,7 +6858,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6868,7 +6868,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6878,7 +6878,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6888,7 +6888,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6898,7 +6898,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6908,7 +6908,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6918,7 +6918,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6928,7 +6928,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6938,7 +6938,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6948,7 +6948,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6958,7 +6958,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6968,7 +6968,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6978,7 +6978,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6988,7 +6988,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -6998,7 +6998,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7008,7 +7008,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7018,7 +7018,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7028,7 +7028,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7038,7 +7038,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7048,7 +7048,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7058,7 +7058,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7068,7 +7068,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7078,7 +7078,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7088,7 +7088,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7098,7 +7098,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7108,7 +7108,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7118,7 +7118,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7128,7 +7128,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7138,7 +7138,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7148,7 +7148,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7158,7 +7158,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7168,7 +7168,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7178,7 +7178,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7188,7 +7188,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7198,7 +7198,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7208,7 +7208,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7218,7 +7218,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7228,7 +7228,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7238,7 +7238,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7248,7 +7248,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7258,7 +7258,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7268,7 +7268,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7278,7 +7278,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7288,7 +7288,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7298,7 +7298,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7308,7 +7308,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7318,7 +7318,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7328,7 +7328,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7338,7 +7338,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7348,7 +7348,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7358,7 +7358,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7368,7 +7368,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7378,7 +7378,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7388,7 +7388,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7398,7 +7398,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7408,7 +7408,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7418,7 +7418,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7428,7 +7428,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7438,7 +7438,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7448,7 +7448,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7458,7 +7458,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7468,7 +7468,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7478,7 +7478,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7488,7 +7488,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7498,7 +7498,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7508,7 +7508,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7518,7 +7518,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7528,7 +7528,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7538,7 +7538,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7548,7 +7548,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7558,7 +7558,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7568,7 +7568,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7578,7 +7578,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7588,7 +7588,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7598,7 +7598,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7608,7 +7608,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7618,7 +7618,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7628,7 +7628,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7638,7 +7638,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7648,7 +7648,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7658,7 +7658,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7668,7 +7668,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7678,7 +7678,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7688,7 +7688,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7698,7 +7698,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7708,7 +7708,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7718,7 +7718,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7728,7 +7728,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7738,7 +7738,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7748,7 +7748,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7758,7 +7758,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7768,7 +7768,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7778,7 +7778,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7788,7 +7788,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7798,7 +7798,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7808,7 +7808,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7818,7 +7818,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7828,7 +7828,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7838,7 +7838,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7848,7 +7848,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7858,7 +7858,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7868,7 +7868,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7878,7 +7878,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7888,7 +7888,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7898,7 +7898,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7908,7 +7908,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7918,7 +7918,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7928,7 +7928,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7938,7 +7938,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7948,7 +7948,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7958,7 +7958,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7968,7 +7968,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7978,7 +7978,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7988,7 +7988,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -7998,7 +7998,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8008,7 +8008,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8018,7 +8018,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8028,7 +8028,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8038,7 +8038,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8048,7 +8048,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8058,7 +8058,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8068,7 +8068,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8078,7 +8078,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8088,7 +8088,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8098,7 +8098,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8108,7 +8108,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8118,7 +8118,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8128,7 +8128,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8138,7 +8138,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8148,7 +8148,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8158,7 +8158,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8168,7 +8168,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8178,7 +8178,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8188,7 +8188,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8198,7 +8198,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8208,7 +8208,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8218,7 +8218,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8228,7 +8228,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8238,7 +8238,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8248,7 +8248,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8258,7 +8258,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8268,7 +8268,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8278,7 +8278,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8288,7 +8288,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8298,7 +8298,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8308,7 +8308,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8318,7 +8318,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8328,7 +8328,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8338,7 +8338,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8348,7 +8348,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8358,7 +8358,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8368,7 +8368,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8378,7 +8378,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8388,7 +8388,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8398,7 +8398,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8408,7 +8408,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8418,7 +8418,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8428,7 +8428,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8438,7 +8438,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8448,7 +8448,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8458,7 +8458,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8468,7 +8468,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8478,7 +8478,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8488,7 +8488,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8498,7 +8498,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8508,7 +8508,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8518,7 +8518,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8528,7 +8528,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8538,7 +8538,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8548,7 +8548,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8558,7 +8558,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8568,7 +8568,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8578,7 +8578,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8588,7 +8588,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8598,7 +8598,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8608,7 +8608,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8618,7 +8618,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8628,7 +8628,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8638,7 +8638,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8648,7 +8648,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8658,7 +8658,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8668,7 +8668,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8678,7 +8678,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8688,7 +8688,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8698,7 +8698,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8708,7 +8708,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8718,7 +8718,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8728,7 +8728,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8738,7 +8738,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8748,7 +8748,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8758,7 +8758,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8768,7 +8768,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8778,7 +8778,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8788,7 +8788,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8798,7 +8798,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8808,7 +8808,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8818,7 +8818,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8828,7 +8828,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8838,7 +8838,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8848,7 +8848,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8858,7 +8858,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8868,7 +8868,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8878,7 +8878,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8888,7 +8888,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8898,7 +8898,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8908,7 +8908,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8918,7 +8918,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8928,7 +8928,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8938,7 +8938,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8948,7 +8948,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8958,7 +8958,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8968,7 +8968,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8978,7 +8978,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8988,7 +8988,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -8998,7 +8998,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9008,7 +9008,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9018,7 +9018,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9028,7 +9028,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9038,7 +9038,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9048,7 +9048,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9058,7 +9058,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9068,7 +9068,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9078,7 +9078,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9088,7 +9088,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9098,7 +9098,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9108,7 +9108,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9118,7 +9118,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9128,7 +9128,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9138,7 +9138,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9148,7 +9148,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9158,7 +9158,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9168,7 +9168,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9178,7 +9178,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9188,7 +9188,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9198,7 +9198,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9208,7 +9208,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9218,7 +9218,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9228,7 +9228,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9238,7 +9238,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9248,7 +9248,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9258,7 +9258,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9268,7 +9268,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9278,7 +9278,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9288,7 +9288,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9298,7 +9298,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9308,7 +9308,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9318,7 +9318,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9328,7 +9328,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9338,7 +9338,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9348,7 +9348,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9358,7 +9358,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9368,7 +9368,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9378,7 +9378,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9388,7 +9388,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9398,7 +9398,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9408,7 +9408,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9418,7 +9418,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9428,7 +9428,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9438,7 +9438,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9448,7 +9448,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9458,7 +9458,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9468,7 +9468,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9478,7 +9478,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9488,7 +9488,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9498,7 +9498,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9508,7 +9508,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9518,7 +9518,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9528,7 +9528,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9538,7 +9538,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9548,7 +9548,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9558,7 +9558,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9568,7 +9568,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9578,7 +9578,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9588,7 +9588,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9598,7 +9598,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9608,7 +9608,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9618,7 +9618,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9628,7 +9628,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9638,7 +9638,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9648,7 +9648,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9658,7 +9658,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9668,7 +9668,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9678,7 +9678,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9688,7 +9688,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9698,7 +9698,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9708,7 +9708,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9718,7 +9718,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9728,7 +9728,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9738,7 +9738,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9748,7 +9748,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9758,7 +9758,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9768,7 +9768,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9778,7 +9778,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9788,7 +9788,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9798,7 +9798,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9808,7 +9808,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9818,7 +9818,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9828,7 +9828,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9838,7 +9838,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9848,7 +9848,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9858,7 +9858,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9868,7 +9868,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9878,7 +9878,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9888,7 +9888,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9898,7 +9898,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9908,7 +9908,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9918,7 +9918,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9928,7 +9928,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9938,7 +9938,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9948,7 +9948,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9958,7 +9958,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9968,7 +9968,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9978,7 +9978,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9988,7 +9988,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -9998,7 +9998,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10008,7 +10008,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10018,7 +10018,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10028,7 +10028,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10038,7 +10038,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10048,7 +10048,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10058,7 +10058,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10068,7 +10068,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10078,7 +10078,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10088,7 +10088,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10098,7 +10098,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10108,7 +10108,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10118,7 +10118,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10128,7 +10128,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10138,7 +10138,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10148,7 +10148,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10158,7 +10158,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10168,7 +10168,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10178,7 +10178,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10188,7 +10188,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10198,7 +10198,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10208,7 +10208,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10218,7 +10218,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10228,7 +10228,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10238,7 +10238,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10248,7 +10248,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10258,7 +10258,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10268,7 +10268,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10278,7 +10278,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10288,7 +10288,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10298,7 +10298,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10308,7 +10308,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10318,7 +10318,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10328,7 +10328,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10338,7 +10338,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10348,7 +10348,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10358,7 +10358,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10368,7 +10368,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10378,7 +10378,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10388,7 +10388,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10398,7 +10398,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10408,7 +10408,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10418,7 +10418,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10428,7 +10428,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10438,7 +10438,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10448,7 +10448,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10458,7 +10458,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10468,7 +10468,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10478,7 +10478,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10488,7 +10488,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10498,7 +10498,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10508,7 +10508,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10518,7 +10518,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10528,7 +10528,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10538,7 +10538,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10548,7 +10548,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10558,7 +10558,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10568,7 +10568,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10578,7 +10578,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10588,7 +10588,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10598,7 +10598,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10608,7 +10608,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10618,7 +10618,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10628,7 +10628,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10638,7 +10638,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10648,7 +10648,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10658,7 +10658,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10668,7 +10668,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10678,7 +10678,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10688,7 +10688,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10698,7 +10698,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10708,7 +10708,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10718,7 +10718,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10728,7 +10728,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10738,7 +10738,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10748,7 +10748,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10758,7 +10758,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10768,7 +10768,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10778,7 +10778,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10788,7 +10788,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10798,7 +10798,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10808,7 +10808,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10818,7 +10818,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10828,7 +10828,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10838,7 +10838,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10848,7 +10848,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10858,7 +10858,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10868,7 +10868,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10878,7 +10878,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10888,7 +10888,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10898,7 +10898,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10908,7 +10908,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10918,7 +10918,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10928,7 +10928,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10938,7 +10938,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10948,7 +10948,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10958,7 +10958,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10968,7 +10968,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10978,7 +10978,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10988,7 +10988,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -10998,7 +10998,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11008,7 +11008,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11018,7 +11018,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11028,7 +11028,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11038,7 +11038,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11048,7 +11048,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11058,7 +11058,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11068,7 +11068,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11078,7 +11078,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11088,7 +11088,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11098,7 +11098,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11108,7 +11108,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11118,7 +11118,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11128,7 +11128,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11138,7 +11138,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11148,7 +11148,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11158,7 +11158,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11168,7 +11168,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11178,7 +11178,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11188,7 +11188,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11198,7 +11198,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11208,7 +11208,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11218,7 +11218,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11228,7 +11228,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11238,7 +11238,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11248,7 +11248,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11258,7 +11258,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11268,7 +11268,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11278,7 +11278,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11288,7 +11288,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11298,7 +11298,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11308,7 +11308,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11318,7 +11318,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11328,7 +11328,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11338,7 +11338,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11348,7 +11348,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11358,7 +11358,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11368,7 +11368,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11378,7 +11378,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11388,7 +11388,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11398,7 +11398,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11408,7 +11408,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11418,7 +11418,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11428,7 +11428,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11438,7 +11438,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11448,7 +11448,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11458,7 +11458,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11468,7 +11468,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11478,7 +11478,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11488,7 +11488,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11498,7 +11498,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11508,7 +11508,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11518,7 +11518,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11528,7 +11528,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11538,7 +11538,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11548,7 +11548,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11558,7 +11558,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11568,7 +11568,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11578,7 +11578,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11588,7 +11588,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11598,7 +11598,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11608,7 +11608,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11618,7 +11618,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11628,7 +11628,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11638,7 +11638,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11648,7 +11648,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11658,7 +11658,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11668,7 +11668,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11678,7 +11678,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11688,7 +11688,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11698,7 +11698,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11708,7 +11708,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11718,7 +11718,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11728,7 +11728,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11738,7 +11738,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11748,7 +11748,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11758,7 +11758,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11768,7 +11768,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11778,7 +11778,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11788,7 +11788,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11798,7 +11798,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11808,7 +11808,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11818,7 +11818,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11828,7 +11828,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11838,7 +11838,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11848,7 +11848,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11858,7 +11858,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11868,7 +11868,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11878,7 +11878,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11888,7 +11888,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11898,7 +11898,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11908,7 +11908,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11918,7 +11918,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11928,7 +11928,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11938,7 +11938,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11948,7 +11948,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11958,7 +11958,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11968,7 +11968,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11978,7 +11978,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11988,7 +11988,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -11998,7 +11998,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12008,7 +12008,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12018,7 +12018,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12028,7 +12028,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12038,7 +12038,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12048,7 +12048,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12058,7 +12058,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12068,7 +12068,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12078,7 +12078,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12088,7 +12088,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12098,7 +12098,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12108,7 +12108,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12118,7 +12118,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12128,7 +12128,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12138,7 +12138,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12148,7 +12148,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12158,7 +12158,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12168,7 +12168,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12178,7 +12178,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12188,7 +12188,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12198,7 +12198,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12208,7 +12208,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12218,7 +12218,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12228,7 +12228,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12238,7 +12238,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12248,7 +12248,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12258,7 +12258,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12268,7 +12268,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12278,7 +12278,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12288,7 +12288,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12298,7 +12298,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12308,7 +12308,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12318,7 +12318,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12328,7 +12328,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12338,7 +12338,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12348,7 +12348,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12358,7 +12358,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12368,7 +12368,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12378,7 +12378,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12388,7 +12388,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12398,7 +12398,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12408,7 +12408,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12418,7 +12418,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12428,7 +12428,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12438,7 +12438,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12448,7 +12448,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12458,7 +12458,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12468,7 +12468,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12478,7 +12478,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12488,7 +12488,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12498,7 +12498,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12508,7 +12508,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12518,7 +12518,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12528,7 +12528,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12538,7 +12538,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12548,7 +12548,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12558,7 +12558,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12568,7 +12568,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12578,7 +12578,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12588,7 +12588,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12598,7 +12598,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12608,7 +12608,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12618,7 +12618,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12628,7 +12628,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12638,7 +12638,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12648,7 +12648,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12658,7 +12658,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12668,7 +12668,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12678,7 +12678,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12688,7 +12688,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12698,7 +12698,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12708,7 +12708,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12718,7 +12718,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12728,7 +12728,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12738,7 +12738,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12748,7 +12748,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12758,7 +12758,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12768,7 +12768,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12778,7 +12778,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12788,7 +12788,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12798,7 +12798,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12808,7 +12808,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12818,7 +12818,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12828,7 +12828,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12838,7 +12838,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12848,7 +12848,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12858,7 +12858,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12868,7 +12868,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12878,7 +12878,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12888,7 +12888,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12898,7 +12898,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12908,7 +12908,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12918,7 +12918,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12928,7 +12928,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12938,7 +12938,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12948,7 +12948,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12958,7 +12958,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12968,7 +12968,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12978,7 +12978,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12988,7 +12988,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -12998,7 +12998,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13008,7 +13008,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13018,7 +13018,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13028,7 +13028,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13038,7 +13038,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13048,7 +13048,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13058,7 +13058,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13068,7 +13068,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13078,7 +13078,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13088,7 +13088,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13098,7 +13098,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13108,7 +13108,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13118,7 +13118,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13128,7 +13128,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13138,7 +13138,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13148,7 +13148,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13158,7 +13158,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13168,7 +13168,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13178,7 +13178,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13188,7 +13188,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13198,7 +13198,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13208,7 +13208,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13218,7 +13218,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13228,7 +13228,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13238,7 +13238,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13248,7 +13248,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13258,7 +13258,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13268,7 +13268,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13278,7 +13278,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13288,7 +13288,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13298,7 +13298,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13308,7 +13308,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13318,7 +13318,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13328,7 +13328,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13338,7 +13338,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13348,7 +13348,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13358,7 +13358,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13368,7 +13368,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13378,7 +13378,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13388,7 +13388,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13398,7 +13398,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13408,7 +13408,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13418,7 +13418,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13428,7 +13428,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13438,7 +13438,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13448,7 +13448,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13458,7 +13458,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13468,7 +13468,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13478,7 +13478,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13488,7 +13488,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13498,7 +13498,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13508,7 +13508,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13518,7 +13518,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13528,7 +13528,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13538,7 +13538,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13548,7 +13548,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13558,7 +13558,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13568,7 +13568,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13578,7 +13578,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13588,7 +13588,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13598,7 +13598,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13608,7 +13608,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13618,7 +13618,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13628,7 +13628,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13638,7 +13638,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13648,7 +13648,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13658,7 +13658,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13668,7 +13668,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13678,7 +13678,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13688,7 +13688,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13698,7 +13698,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13708,7 +13708,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13718,7 +13718,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13728,7 +13728,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13738,7 +13738,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13748,7 +13748,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13758,7 +13758,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13768,7 +13768,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13778,7 +13778,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13788,7 +13788,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13798,7 +13798,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13808,7 +13808,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13818,7 +13818,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13828,7 +13828,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13838,7 +13838,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13848,7 +13848,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13858,7 +13858,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13868,7 +13868,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13878,7 +13878,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13888,7 +13888,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13898,7 +13898,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13908,7 +13908,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13918,7 +13918,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13928,7 +13928,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13938,7 +13938,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13948,7 +13948,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13958,7 +13958,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13968,7 +13968,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13978,7 +13978,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13988,7 +13988,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -13998,7 +13998,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14008,7 +14008,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14018,7 +14018,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14028,7 +14028,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14038,7 +14038,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14048,7 +14048,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14058,7 +14058,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14068,7 +14068,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14078,7 +14078,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14088,7 +14088,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14098,7 +14098,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14108,7 +14108,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14118,7 +14118,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14128,7 +14128,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14138,7 +14138,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14148,7 +14148,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14158,7 +14158,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14168,7 +14168,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14178,7 +14178,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14188,7 +14188,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14198,7 +14198,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14208,7 +14208,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14218,7 +14218,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14228,7 +14228,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14238,7 +14238,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14248,7 +14248,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14258,7 +14258,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14268,7 +14268,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14278,7 +14278,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14288,7 +14288,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14298,7 +14298,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14308,7 +14308,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14318,7 +14318,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14328,7 +14328,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14338,7 +14338,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14348,7 +14348,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14358,7 +14358,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14368,7 +14368,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14378,7 +14378,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14388,7 +14388,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14398,7 +14398,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14408,7 +14408,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14418,7 +14418,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14428,7 +14428,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14438,7 +14438,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14448,7 +14448,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14458,7 +14458,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14468,7 +14468,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14478,7 +14478,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14488,7 +14488,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14498,7 +14498,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14508,7 +14508,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14518,7 +14518,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14528,7 +14528,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14538,7 +14538,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14548,7 +14548,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14558,7 +14558,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14568,7 +14568,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14578,7 +14578,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14588,7 +14588,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14598,7 +14598,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14608,7 +14608,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14618,7 +14618,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14628,7 +14628,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14638,7 +14638,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14648,7 +14648,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14658,7 +14658,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14668,7 +14668,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14678,7 +14678,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14688,7 +14688,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14698,7 +14698,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14708,7 +14708,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14718,7 +14718,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14728,7 +14728,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14738,7 +14738,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14748,7 +14748,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14758,7 +14758,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14768,7 +14768,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14778,7 +14778,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14788,7 +14788,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14798,7 +14798,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14808,7 +14808,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14818,7 +14818,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14828,7 +14828,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14838,7 +14838,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14848,7 +14848,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14858,7 +14858,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14868,7 +14868,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14878,7 +14878,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14888,7 +14888,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14898,7 +14898,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14908,7 +14908,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14918,7 +14918,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14928,7 +14928,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14938,7 +14938,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14948,7 +14948,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14958,7 +14958,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14968,7 +14968,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14978,7 +14978,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14988,7 +14988,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -14998,7 +14998,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15008,7 +15008,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15018,7 +15018,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15028,7 +15028,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15038,7 +15038,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15048,7 +15048,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15058,7 +15058,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15068,7 +15068,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15078,7 +15078,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15088,7 +15088,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15098,7 +15098,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15108,7 +15108,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15118,7 +15118,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15128,7 +15128,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15138,7 +15138,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15148,7 +15148,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15158,7 +15158,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15168,7 +15168,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15178,7 +15178,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15188,7 +15188,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15198,7 +15198,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15208,7 +15208,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15218,7 +15218,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15228,7 +15228,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15238,7 +15238,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15248,7 +15248,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15258,7 +15258,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15268,7 +15268,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15278,7 +15278,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15288,7 +15288,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15298,7 +15298,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15308,7 +15308,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15318,7 +15318,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15328,7 +15328,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15338,7 +15338,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15348,7 +15348,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15358,7 +15358,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15368,7 +15368,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15378,7 +15378,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15388,7 +15388,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15398,7 +15398,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15408,7 +15408,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15418,7 +15418,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15428,7 +15428,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15438,7 +15438,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15448,7 +15448,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15458,7 +15458,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15468,7 +15468,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15478,7 +15478,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15488,7 +15488,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15498,7 +15498,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15508,7 +15508,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15518,7 +15518,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15528,7 +15528,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15538,7 +15538,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15548,7 +15548,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15558,7 +15558,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15568,7 +15568,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15578,7 +15578,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15588,7 +15588,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15598,7 +15598,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15608,7 +15608,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15618,7 +15618,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15628,7 +15628,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15638,7 +15638,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15648,7 +15648,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15658,7 +15658,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15668,7 +15668,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15678,7 +15678,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15688,7 +15688,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15698,7 +15698,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15708,7 +15708,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15718,7 +15718,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15728,7 +15728,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15738,7 +15738,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15748,7 +15748,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15758,7 +15758,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15768,7 +15768,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15778,7 +15778,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15788,7 +15788,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15798,7 +15798,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15808,7 +15808,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15818,7 +15818,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15828,7 +15828,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15838,7 +15838,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15848,7 +15848,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15858,7 +15858,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15868,7 +15868,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15878,7 +15878,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15888,7 +15888,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15898,7 +15898,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15908,7 +15908,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15918,7 +15918,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15928,7 +15928,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15938,7 +15938,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15948,7 +15948,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15958,7 +15958,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15968,7 +15968,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15978,7 +15978,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15988,7 +15988,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -15998,7 +15998,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16008,7 +16008,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16018,7 +16018,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16028,7 +16028,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16038,7 +16038,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16048,7 +16048,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16058,7 +16058,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16068,7 +16068,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16078,7 +16078,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16088,7 +16088,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16098,7 +16098,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16108,7 +16108,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16118,7 +16118,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16128,7 +16128,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16138,7 +16138,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16148,7 +16148,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16158,7 +16158,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16168,7 +16168,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16178,7 +16178,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16188,7 +16188,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16198,7 +16198,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16208,7 +16208,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16218,7 +16218,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16228,7 +16228,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16238,7 +16238,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16248,7 +16248,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16258,7 +16258,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16268,7 +16268,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16278,7 +16278,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16288,7 +16288,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16298,7 +16298,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16308,7 +16308,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16318,7 +16318,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16328,7 +16328,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16338,7 +16338,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16348,7 +16348,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16358,7 +16358,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16368,7 +16368,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16378,7 +16378,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16388,7 +16388,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16398,7 +16398,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16408,7 +16408,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16418,7 +16418,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16428,7 +16428,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16438,7 +16438,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16448,7 +16448,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16458,7 +16458,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16468,7 +16468,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16478,7 +16478,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16488,7 +16488,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16498,7 +16498,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16508,7 +16508,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16518,7 +16518,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16528,7 +16528,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16538,7 +16538,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16548,7 +16548,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16558,7 +16558,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16568,7 +16568,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16578,7 +16578,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16588,7 +16588,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16598,7 +16598,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16608,7 +16608,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16618,7 +16618,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16628,7 +16628,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16638,7 +16638,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16648,7 +16648,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16658,7 +16658,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16668,7 +16668,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16678,7 +16678,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16688,7 +16688,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16698,7 +16698,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16708,7 +16708,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16718,7 +16718,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16728,7 +16728,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16738,7 +16738,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16748,7 +16748,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16758,7 +16758,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16768,7 +16768,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16778,7 +16778,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16788,7 +16788,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16798,7 +16798,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16808,7 +16808,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16818,7 +16818,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16828,7 +16828,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16838,7 +16838,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16848,7 +16848,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16858,7 +16858,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16868,7 +16868,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16878,7 +16878,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16888,7 +16888,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16898,7 +16898,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16908,7 +16908,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16918,7 +16918,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16928,7 +16928,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16938,7 +16938,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16948,7 +16948,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16958,7 +16958,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16968,7 +16968,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16978,7 +16978,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16988,7 +16988,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -16998,7 +16998,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17008,7 +17008,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17018,7 +17018,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17028,7 +17028,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17038,7 +17038,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17048,7 +17048,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17058,7 +17058,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17068,7 +17068,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17078,7 +17078,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17088,7 +17088,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17098,7 +17098,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17108,7 +17108,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17118,7 +17118,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17128,7 +17128,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17138,7 +17138,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17148,7 +17148,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17158,7 +17158,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17168,7 +17168,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17178,7 +17178,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17188,7 +17188,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17198,7 +17198,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17208,7 +17208,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17218,7 +17218,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17228,7 +17228,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17238,7 +17238,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17248,7 +17248,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17258,7 +17258,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17268,7 +17268,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17278,7 +17278,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17288,7 +17288,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17298,7 +17298,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17308,7 +17308,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17318,7 +17318,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17328,7 +17328,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17338,7 +17338,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17348,7 +17348,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17358,7 +17358,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17368,7 +17368,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17378,7 +17378,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17388,7 +17388,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17398,7 +17398,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17408,7 +17408,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17418,7 +17418,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17428,7 +17428,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17438,7 +17438,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17448,7 +17448,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17458,7 +17458,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17468,7 +17468,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17478,7 +17478,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17488,7 +17488,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17498,7 +17498,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17508,7 +17508,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17518,7 +17518,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17528,7 +17528,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17538,7 +17538,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17548,7 +17548,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17558,7 +17558,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17568,7 +17568,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17578,7 +17578,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17588,7 +17588,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17598,7 +17598,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17608,7 +17608,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17618,7 +17618,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17628,7 +17628,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17638,7 +17638,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17648,7 +17648,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17658,7 +17658,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17668,7 +17668,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17678,7 +17678,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17688,7 +17688,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17698,7 +17698,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17708,7 +17708,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17718,7 +17718,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17728,7 +17728,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17738,7 +17738,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17748,7 +17748,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17758,7 +17758,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17768,7 +17768,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17778,7 +17778,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17788,7 +17788,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17798,7 +17798,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17808,7 +17808,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17818,7 +17818,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17828,7 +17828,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17838,7 +17838,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17848,7 +17848,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17858,7 +17858,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17868,7 +17868,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17878,7 +17878,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17888,7 +17888,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17898,7 +17898,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17908,7 +17908,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17918,7 +17918,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17928,7 +17928,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17938,7 +17938,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17948,7 +17948,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17958,7 +17958,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17968,7 +17968,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17978,7 +17978,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17988,7 +17988,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -17998,7 +17998,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18008,7 +18008,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18018,7 +18018,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18028,7 +18028,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18038,7 +18038,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18048,7 +18048,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18058,7 +18058,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18068,7 +18068,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18078,7 +18078,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18088,7 +18088,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18098,7 +18098,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18108,7 +18108,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18118,7 +18118,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18128,7 +18128,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18138,7 +18138,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18148,7 +18148,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18158,7 +18158,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18168,7 +18168,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18178,7 +18178,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18188,7 +18188,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18198,7 +18198,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18208,7 +18208,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18218,7 +18218,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18228,7 +18228,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18238,7 +18238,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18248,7 +18248,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18258,7 +18258,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18268,7 +18268,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18278,7 +18278,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18288,7 +18288,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18298,7 +18298,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18308,7 +18308,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18318,7 +18318,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18328,7 +18328,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18338,7 +18338,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18348,7 +18348,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18358,7 +18358,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18368,7 +18368,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18378,7 +18378,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18388,7 +18388,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18398,7 +18398,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18408,7 +18408,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18418,7 +18418,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18428,7 +18428,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18438,7 +18438,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18448,7 +18448,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18458,7 +18458,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18468,7 +18468,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18478,7 +18478,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18488,7 +18488,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18498,7 +18498,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18508,7 +18508,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18518,7 +18518,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18528,7 +18528,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18538,7 +18538,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18548,7 +18548,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18558,7 +18558,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18568,7 +18568,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18578,7 +18578,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18588,7 +18588,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18598,7 +18598,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18608,7 +18608,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18618,7 +18618,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18628,7 +18628,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18638,7 +18638,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18648,7 +18648,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18658,7 +18658,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18668,7 +18668,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18678,7 +18678,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18688,7 +18688,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18698,7 +18698,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18708,7 +18708,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18718,7 +18718,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18728,7 +18728,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18738,7 +18738,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18748,7 +18748,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18758,7 +18758,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18768,7 +18768,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18778,7 +18778,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18788,7 +18788,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18798,7 +18798,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18808,7 +18808,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18818,7 +18818,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18828,7 +18828,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18838,7 +18838,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18848,7 +18848,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18858,7 +18858,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18868,7 +18868,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18878,7 +18878,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18888,7 +18888,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18898,7 +18898,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18908,7 +18908,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18918,7 +18918,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18928,7 +18928,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18938,7 +18938,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18948,7 +18948,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18958,7 +18958,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18968,7 +18968,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18978,7 +18978,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18988,7 +18988,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -18998,7 +18998,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19008,7 +19008,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19018,7 +19018,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19028,7 +19028,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19038,7 +19038,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19048,7 +19048,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19058,7 +19058,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19068,7 +19068,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19078,7 +19078,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19088,7 +19088,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19098,7 +19098,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19108,7 +19108,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19118,7 +19118,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19128,7 +19128,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19138,7 +19138,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19148,7 +19148,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19158,7 +19158,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19168,7 +19168,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19178,7 +19178,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19188,7 +19188,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19198,7 +19198,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19208,7 +19208,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19218,7 +19218,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19228,7 +19228,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19238,7 +19238,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19248,7 +19248,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19258,7 +19258,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19268,7 +19268,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19278,7 +19278,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19288,7 +19288,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19298,7 +19298,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19308,7 +19308,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19318,7 +19318,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19328,7 +19328,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19338,7 +19338,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19348,7 +19348,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19358,7 +19358,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19368,7 +19368,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19378,7 +19378,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19388,7 +19388,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19398,7 +19398,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19408,7 +19408,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19418,7 +19418,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19428,7 +19428,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19438,7 +19438,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19448,7 +19448,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19458,7 +19458,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19468,7 +19468,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19478,7 +19478,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19488,7 +19488,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19498,7 +19498,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19508,7 +19508,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19518,7 +19518,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19528,7 +19528,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19538,7 +19538,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19548,7 +19548,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19558,7 +19558,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19568,7 +19568,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19578,7 +19578,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19588,7 +19588,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19598,7 +19598,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19608,7 +19608,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19618,7 +19618,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19628,7 +19628,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19638,7 +19638,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19648,7 +19648,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19658,7 +19658,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19668,7 +19668,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19678,7 +19678,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19688,7 +19688,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19698,7 +19698,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19708,7 +19708,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19718,7 +19718,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19728,7 +19728,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19738,7 +19738,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19748,7 +19748,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19758,7 +19758,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19768,7 +19768,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19778,7 +19778,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19788,7 +19788,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19798,7 +19798,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19808,7 +19808,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19818,7 +19818,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19828,7 +19828,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19838,7 +19838,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19848,7 +19848,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19858,7 +19858,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19868,7 +19868,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19878,7 +19878,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19888,7 +19888,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19898,7 +19898,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19908,7 +19908,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19918,7 +19918,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19928,7 +19928,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19938,7 +19938,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19948,7 +19948,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19958,7 +19958,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19968,7 +19968,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19978,7 +19978,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19988,7 +19988,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -19998,7 +19998,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20008,7 +20008,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20018,7 +20018,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20028,7 +20028,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20038,7 +20038,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20048,7 +20048,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20058,7 +20058,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20068,7 +20068,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20078,7 +20078,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20088,7 +20088,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20098,7 +20098,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20108,7 +20108,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20118,7 +20118,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20128,7 +20128,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20138,7 +20138,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20148,7 +20148,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20158,7 +20158,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20168,7 +20168,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20178,7 +20178,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20188,7 +20188,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20198,7 +20198,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20208,7 +20208,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20218,7 +20218,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20228,7 +20228,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20238,7 +20238,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20248,7 +20248,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20258,7 +20258,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20268,7 +20268,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20278,7 +20278,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20288,7 +20288,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20298,7 +20298,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20308,7 +20308,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20318,7 +20318,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20328,7 +20328,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20338,7 +20338,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20348,7 +20348,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20358,7 +20358,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20368,7 +20368,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20378,7 +20378,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20388,7 +20388,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20398,7 +20398,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20408,7 +20408,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20418,7 +20418,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20428,7 +20428,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20438,7 +20438,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20448,7 +20448,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20458,7 +20458,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20468,7 +20468,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20478,7 +20478,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20488,7 +20488,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20498,7 +20498,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20508,7 +20508,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20518,7 +20518,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20528,7 +20528,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20538,7 +20538,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20548,7 +20548,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20558,7 +20558,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20568,7 +20568,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20578,7 +20578,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20588,7 +20588,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20598,7 +20598,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20608,7 +20608,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20618,7 +20618,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20628,7 +20628,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20638,7 +20638,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20648,7 +20648,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20658,7 +20658,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20668,7 +20668,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20678,7 +20678,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20688,7 +20688,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20698,7 +20698,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20708,7 +20708,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20718,7 +20718,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20728,7 +20728,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20738,7 +20738,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20748,7 +20748,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20758,7 +20758,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20768,7 +20768,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20778,7 +20778,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20788,7 +20788,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20798,7 +20798,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20808,7 +20808,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20818,7 +20818,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20828,7 +20828,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20838,7 +20838,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20848,7 +20848,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20858,7 +20858,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20868,7 +20868,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20878,7 +20878,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20888,7 +20888,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20898,7 +20898,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20908,7 +20908,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20918,7 +20918,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20928,7 +20928,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20938,7 +20938,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20948,7 +20948,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20958,7 +20958,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20968,7 +20968,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20978,7 +20978,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20988,7 +20988,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -20998,7 +20998,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21008,7 +21008,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21018,7 +21018,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21028,7 +21028,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21038,7 +21038,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21048,7 +21048,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21058,7 +21058,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21068,7 +21068,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21078,7 +21078,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21088,7 +21088,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21098,7 +21098,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21108,7 +21108,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21118,7 +21118,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21128,7 +21128,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21138,7 +21138,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21148,7 +21148,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21158,7 +21158,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21168,7 +21168,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21178,7 +21178,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21188,7 +21188,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21198,7 +21198,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21208,7 +21208,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21218,7 +21218,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21228,7 +21228,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21238,7 +21238,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21248,7 +21248,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21258,7 +21258,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21268,7 +21268,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21278,7 +21278,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21288,7 +21288,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21298,7 +21298,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21308,7 +21308,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21318,7 +21318,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21328,7 +21328,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21338,7 +21338,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21348,7 +21348,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21358,7 +21358,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21368,7 +21368,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21378,7 +21378,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21388,7 +21388,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21398,7 +21398,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21408,7 +21408,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21418,7 +21418,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21428,7 +21428,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21438,7 +21438,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21448,7 +21448,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21458,7 +21458,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21468,7 +21468,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21478,7 +21478,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21488,7 +21488,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21498,7 +21498,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21508,7 +21508,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21518,7 +21518,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21528,7 +21528,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21538,7 +21538,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21548,7 +21548,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21558,7 +21558,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21568,7 +21568,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21578,7 +21578,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21588,7 +21588,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21598,7 +21598,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21608,7 +21608,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21618,7 +21618,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21628,7 +21628,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21638,7 +21638,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21648,7 +21648,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21658,7 +21658,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21668,7 +21668,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21678,7 +21678,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21688,7 +21688,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21698,7 +21698,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21708,7 +21708,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21718,7 +21718,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21728,7 +21728,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21738,7 +21738,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21748,7 +21748,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21758,7 +21758,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21768,7 +21768,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21778,7 +21778,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21788,7 +21788,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21798,7 +21798,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21808,7 +21808,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21818,7 +21818,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21828,7 +21828,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21838,7 +21838,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21848,7 +21848,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21858,7 +21858,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21868,7 +21868,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21878,7 +21878,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21888,7 +21888,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21898,7 +21898,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21908,7 +21908,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21918,7 +21918,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21928,7 +21928,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21938,7 +21938,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21948,7 +21948,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21958,7 +21958,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21968,7 +21968,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21978,7 +21978,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21988,7 +21988,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -21998,7 +21998,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22008,7 +22008,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22018,7 +22018,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22028,7 +22028,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22038,7 +22038,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22048,7 +22048,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22058,7 +22058,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22068,7 +22068,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22078,7 +22078,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22088,7 +22088,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22098,7 +22098,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22108,7 +22108,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22118,7 +22118,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22128,7 +22128,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22138,7 +22138,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22148,7 +22148,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22158,7 +22158,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22168,7 +22168,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22178,7 +22178,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22188,7 +22188,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22198,7 +22198,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22208,7 +22208,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22218,7 +22218,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22228,7 +22228,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22238,7 +22238,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22248,7 +22248,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22258,7 +22258,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22268,7 +22268,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22278,7 +22278,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22288,7 +22288,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22298,7 +22298,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22308,7 +22308,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22318,7 +22318,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22328,7 +22328,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22338,7 +22338,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22348,7 +22348,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22358,7 +22358,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22368,7 +22368,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22378,7 +22378,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22388,7 +22388,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22398,7 +22398,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22408,7 +22408,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22418,7 +22418,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22428,7 +22428,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22438,7 +22438,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22448,7 +22448,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22458,7 +22458,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22468,7 +22468,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22478,7 +22478,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22488,7 +22488,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22498,7 +22498,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22508,7 +22508,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22518,7 +22518,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22528,7 +22528,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22538,7 +22538,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22548,7 +22548,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22558,7 +22558,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22568,7 +22568,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22578,7 +22578,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22588,7 +22588,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22598,7 +22598,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22608,7 +22608,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22618,7 +22618,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22628,7 +22628,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22638,7 +22638,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22648,7 +22648,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22658,7 +22658,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22668,7 +22668,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22678,7 +22678,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22688,7 +22688,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22698,7 +22698,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22708,7 +22708,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22718,7 +22718,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22728,7 +22728,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22738,7 +22738,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22748,7 +22748,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22758,7 +22758,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22768,7 +22768,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22778,7 +22778,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22788,7 +22788,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22798,7 +22798,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22808,7 +22808,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22818,7 +22818,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22828,7 +22828,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22838,7 +22838,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22848,7 +22848,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22858,7 +22858,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22868,7 +22868,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22878,7 +22878,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22888,7 +22888,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22898,7 +22898,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22908,7 +22908,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22918,7 +22918,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22928,7 +22928,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22938,7 +22938,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22948,7 +22948,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22958,7 +22958,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22968,7 +22968,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22978,7 +22978,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22988,7 +22988,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -22998,7 +22998,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23008,7 +23008,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23018,7 +23018,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23028,7 +23028,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23038,7 +23038,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23048,7 +23048,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23058,7 +23058,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23068,7 +23068,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23078,7 +23078,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23088,7 +23088,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23098,7 +23098,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23108,7 +23108,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23118,7 +23118,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23128,7 +23128,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23138,7 +23138,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23148,7 +23148,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23158,7 +23158,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23168,7 +23168,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23178,7 +23178,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23188,7 +23188,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23198,7 +23198,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23208,7 +23208,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23218,7 +23218,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23228,7 +23228,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23238,7 +23238,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23248,7 +23248,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23258,7 +23258,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23268,7 +23268,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23278,7 +23278,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23288,7 +23288,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23298,7 +23298,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23308,7 +23308,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23318,7 +23318,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23328,7 +23328,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23338,7 +23338,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23348,7 +23348,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23358,7 +23358,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23368,7 +23368,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23378,7 +23378,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23388,7 +23388,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23398,7 +23398,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23408,7 +23408,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23418,7 +23418,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23428,7 +23428,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23438,7 +23438,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23448,7 +23448,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23458,7 +23458,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23468,7 +23468,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23478,7 +23478,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23488,7 +23488,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23498,7 +23498,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23508,7 +23508,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23518,7 +23518,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23528,7 +23528,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23538,7 +23538,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23548,7 +23548,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23558,7 +23558,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23568,7 +23568,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23578,7 +23578,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23588,7 +23588,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23598,7 +23598,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23608,7 +23608,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23618,7 +23618,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23628,7 +23628,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23638,7 +23638,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23648,7 +23648,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23658,7 +23658,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23668,7 +23668,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23678,7 +23678,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23688,7 +23688,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23698,7 +23698,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23708,7 +23708,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23718,7 +23718,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23728,7 +23728,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23738,7 +23738,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23748,7 +23748,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23758,7 +23758,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23768,7 +23768,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23778,7 +23778,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23788,7 +23788,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23798,7 +23798,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23808,7 +23808,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23818,7 +23818,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23828,7 +23828,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23838,7 +23838,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23848,7 +23848,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23858,7 +23858,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23868,7 +23868,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23878,7 +23878,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23888,7 +23888,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23898,7 +23898,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23908,7 +23908,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23918,7 +23918,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23928,7 +23928,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23938,7 +23938,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23948,7 +23948,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23958,7 +23958,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23968,7 +23968,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23978,7 +23978,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23988,7 +23988,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -23998,7 +23998,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24008,7 +24008,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24018,7 +24018,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24028,7 +24028,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24038,7 +24038,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24048,7 +24048,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24058,7 +24058,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24068,7 +24068,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24078,7 +24078,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24088,7 +24088,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24098,7 +24098,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24108,7 +24108,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24118,7 +24118,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24128,7 +24128,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24138,7 +24138,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24148,7 +24148,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24158,7 +24158,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24168,7 +24168,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24178,7 +24178,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24188,7 +24188,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24198,7 +24198,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24208,7 +24208,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24218,7 +24218,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24228,7 +24228,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24238,7 +24238,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24248,7 +24248,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24258,7 +24258,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24268,7 +24268,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24278,7 +24278,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24288,7 +24288,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24298,7 +24298,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24308,7 +24308,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24318,7 +24318,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24328,7 +24328,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24338,7 +24338,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24348,7 +24348,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24358,7 +24358,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24368,7 +24368,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24378,7 +24378,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24388,7 +24388,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24398,7 +24398,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24408,7 +24408,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24418,7 +24418,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24428,7 +24428,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24438,7 +24438,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24448,7 +24448,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24458,7 +24458,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24468,7 +24468,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24478,7 +24478,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24488,7 +24488,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24498,7 +24498,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24508,7 +24508,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24518,7 +24518,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24528,7 +24528,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24538,7 +24538,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24548,7 +24548,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24558,7 +24558,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24568,7 +24568,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24578,7 +24578,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24588,7 +24588,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24598,7 +24598,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24608,7 +24608,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24618,7 +24618,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24628,7 +24628,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24638,7 +24638,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24648,7 +24648,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24658,7 +24658,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24668,7 +24668,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24678,7 +24678,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24688,7 +24688,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24698,7 +24698,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24708,7 +24708,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24718,7 +24718,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24728,7 +24728,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24738,7 +24738,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24748,7 +24748,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24758,7 +24758,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24768,7 +24768,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24778,7 +24778,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24788,7 +24788,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24798,7 +24798,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24808,7 +24808,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24818,7 +24818,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24828,7 +24828,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24838,7 +24838,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24848,7 +24848,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24858,7 +24858,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24868,7 +24868,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24878,7 +24878,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24888,7 +24888,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24898,7 +24898,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24908,7 +24908,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24918,7 +24918,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24928,7 +24928,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24938,7 +24938,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24948,7 +24948,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24958,7 +24958,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24968,7 +24968,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24978,7 +24978,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24988,7 +24988,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -24998,7 +24998,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25008,7 +25008,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25018,7 +25018,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25028,7 +25028,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25038,7 +25038,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25048,7 +25048,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25058,7 +25058,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25068,7 +25068,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25078,7 +25078,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25088,7 +25088,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25098,7 +25098,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25108,7 +25108,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25118,7 +25118,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25128,7 +25128,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25138,7 +25138,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25148,7 +25148,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25158,7 +25158,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25168,7 +25168,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25178,7 +25178,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25188,7 +25188,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25198,7 +25198,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25208,7 +25208,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25218,7 +25218,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25228,7 +25228,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25238,7 +25238,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25248,7 +25248,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25258,7 +25258,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25268,7 +25268,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25278,7 +25278,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25288,7 +25288,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25298,7 +25298,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25308,7 +25308,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25318,7 +25318,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25328,7 +25328,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25338,7 +25338,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25348,7 +25348,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25358,7 +25358,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25368,7 +25368,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25378,7 +25378,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25388,7 +25388,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25398,7 +25398,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25408,7 +25408,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25418,7 +25418,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25428,7 +25428,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25438,7 +25438,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25448,7 +25448,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25458,7 +25458,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25468,7 +25468,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25478,7 +25478,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25488,7 +25488,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25498,7 +25498,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25508,7 +25508,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25518,7 +25518,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25528,7 +25528,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25538,7 +25538,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25548,7 +25548,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25558,7 +25558,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25568,7 +25568,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25578,7 +25578,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25588,7 +25588,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25598,7 +25598,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25608,7 +25608,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25618,7 +25618,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25628,7 +25628,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25638,7 +25638,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25648,7 +25648,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25658,7 +25658,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25668,7 +25668,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25678,7 +25678,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25688,7 +25688,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25698,7 +25698,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25708,7 +25708,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25718,7 +25718,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25728,7 +25728,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25738,7 +25738,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25748,7 +25748,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25758,7 +25758,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25768,7 +25768,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25778,7 +25778,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25788,7 +25788,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25798,7 +25798,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25808,7 +25808,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25818,7 +25818,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25828,7 +25828,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25838,7 +25838,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25848,7 +25848,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25858,7 +25858,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25868,7 +25868,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25878,7 +25878,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25888,7 +25888,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25898,7 +25898,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25908,7 +25908,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25918,7 +25918,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25928,7 +25928,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25938,7 +25938,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25948,7 +25948,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25958,7 +25958,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25968,7 +25968,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25978,7 +25978,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25988,7 +25988,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -25998,7 +25998,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26008,7 +26008,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26018,7 +26018,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26028,7 +26028,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26038,7 +26038,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26048,7 +26048,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26058,7 +26058,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26068,7 +26068,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26078,7 +26078,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26088,7 +26088,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26098,7 +26098,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26108,7 +26108,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26118,7 +26118,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26128,7 +26128,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26138,7 +26138,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26148,7 +26148,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26158,7 +26158,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26168,7 +26168,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26178,7 +26178,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26188,7 +26188,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26198,7 +26198,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26208,7 +26208,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26218,7 +26218,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26228,7 +26228,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26238,7 +26238,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26248,7 +26248,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26258,7 +26258,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26268,7 +26268,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26278,7 +26278,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26288,7 +26288,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26298,7 +26298,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26308,7 +26308,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26318,7 +26318,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26328,7 +26328,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26338,7 +26338,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26348,7 +26348,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26358,7 +26358,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26368,7 +26368,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26378,7 +26378,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26388,7 +26388,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26398,7 +26398,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26408,7 +26408,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26418,7 +26418,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26428,7 +26428,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26438,7 +26438,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26448,7 +26448,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26458,7 +26458,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26468,7 +26468,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26478,7 +26478,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26488,7 +26488,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26498,7 +26498,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26508,7 +26508,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26518,7 +26518,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26528,7 +26528,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26538,7 +26538,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26548,7 +26548,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26558,7 +26558,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26568,7 +26568,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26578,7 +26578,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26588,7 +26588,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26598,7 +26598,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26608,7 +26608,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26618,7 +26618,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26628,7 +26628,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26638,7 +26638,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26648,7 +26648,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26658,7 +26658,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26668,7 +26668,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26678,7 +26678,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26688,7 +26688,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26698,7 +26698,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26708,7 +26708,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26718,7 +26718,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26728,7 +26728,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26738,7 +26738,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26748,7 +26748,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26758,7 +26758,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26768,7 +26768,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26778,7 +26778,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26788,7 +26788,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26798,7 +26798,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26808,7 +26808,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26818,7 +26818,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26828,7 +26828,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26838,7 +26838,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26848,7 +26848,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26858,7 +26858,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26868,7 +26868,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26878,7 +26878,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26888,7 +26888,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26898,7 +26898,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26908,7 +26908,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26918,7 +26918,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26928,7 +26928,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26938,7 +26938,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26948,7 +26948,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26958,7 +26958,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26968,7 +26968,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26978,7 +26978,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26988,7 +26988,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -26998,7 +26998,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27008,7 +27008,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27018,7 +27018,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27028,7 +27028,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27038,7 +27038,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27048,7 +27048,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27058,7 +27058,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27068,7 +27068,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27078,7 +27078,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27088,7 +27088,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27098,7 +27098,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27108,7 +27108,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27118,7 +27118,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27128,7 +27128,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27138,7 +27138,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27148,7 +27148,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27158,7 +27158,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27168,7 +27168,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27178,7 +27178,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27188,7 +27188,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27198,7 +27198,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27208,7 +27208,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27218,7 +27218,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27228,7 +27228,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27238,7 +27238,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27248,7 +27248,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27258,7 +27258,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27268,7 +27268,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27278,7 +27278,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27288,7 +27288,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27298,7 +27298,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27308,7 +27308,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27318,7 +27318,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27328,7 +27328,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27338,7 +27338,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27348,7 +27348,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27358,7 +27358,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27368,7 +27368,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27378,7 +27378,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27388,7 +27388,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27398,7 +27398,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27408,7 +27408,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27418,7 +27418,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27428,7 +27428,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27438,7 +27438,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27448,7 +27448,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27458,7 +27458,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27468,7 +27468,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27478,7 +27478,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27488,7 +27488,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27498,7 +27498,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27508,7 +27508,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27518,7 +27518,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27528,7 +27528,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27538,7 +27538,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27548,7 +27548,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27558,7 +27558,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27568,7 +27568,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27578,7 +27578,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27588,7 +27588,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27598,7 +27598,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27608,7 +27608,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27618,7 +27618,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27628,7 +27628,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27638,7 +27638,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27648,7 +27648,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27658,7 +27658,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27668,7 +27668,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27678,7 +27678,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27688,7 +27688,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27698,7 +27698,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27708,7 +27708,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27718,7 +27718,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27728,7 +27728,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27738,7 +27738,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27748,7 +27748,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27758,7 +27758,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27768,7 +27768,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27778,7 +27778,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27788,7 +27788,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27798,7 +27798,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27808,7 +27808,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27818,7 +27818,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27828,7 +27828,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27838,7 +27838,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27848,7 +27848,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27858,7 +27858,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27868,7 +27868,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27878,7 +27878,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27888,7 +27888,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27898,7 +27898,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27908,7 +27908,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27918,7 +27918,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27928,7 +27928,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27938,7 +27938,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27948,7 +27948,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27958,7 +27958,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27968,7 +27968,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27978,7 +27978,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27988,7 +27988,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -27998,7 +27998,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28008,7 +28008,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28018,7 +28018,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28028,7 +28028,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28038,7 +28038,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28048,7 +28048,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28058,7 +28058,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28068,7 +28068,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28078,7 +28078,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28088,7 +28088,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28098,7 +28098,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28108,7 +28108,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28118,7 +28118,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28128,7 +28128,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28138,7 +28138,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28148,7 +28148,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28158,7 +28158,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28168,7 +28168,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28178,7 +28178,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28188,7 +28188,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28198,7 +28198,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28208,7 +28208,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28218,7 +28218,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28228,7 +28228,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28238,7 +28238,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28248,7 +28248,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28258,7 +28258,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28268,7 +28268,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28278,7 +28278,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28288,7 +28288,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28298,7 +28298,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28308,7 +28308,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28318,7 +28318,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28328,7 +28328,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28338,7 +28338,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28348,7 +28348,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28358,7 +28358,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28368,7 +28368,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28378,7 +28378,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28388,7 +28388,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28398,7 +28398,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28408,7 +28408,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28418,7 +28418,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28428,7 +28428,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28438,7 +28438,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28448,7 +28448,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28458,7 +28458,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28468,7 +28468,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28478,7 +28478,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28488,7 +28488,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28498,7 +28498,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28508,7 +28508,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28518,7 +28518,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28528,7 +28528,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28538,7 +28538,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28548,7 +28548,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28558,7 +28558,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28568,7 +28568,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28578,7 +28578,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28588,7 +28588,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28598,7 +28598,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28608,7 +28608,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28618,7 +28618,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28628,7 +28628,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28638,7 +28638,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28648,7 +28648,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28658,7 +28658,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28668,7 +28668,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28678,7 +28678,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28688,7 +28688,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28698,7 +28698,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28708,7 +28708,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28718,7 +28718,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28728,7 +28728,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28738,7 +28738,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28748,7 +28748,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28758,7 +28758,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28768,7 +28768,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28778,7 +28778,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28788,7 +28788,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28798,7 +28798,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28808,7 +28808,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28818,7 +28818,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28828,7 +28828,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28838,7 +28838,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28848,7 +28848,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28858,7 +28858,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28868,7 +28868,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28878,7 +28878,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28888,7 +28888,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28898,7 +28898,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28908,7 +28908,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28918,7 +28918,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28928,7 +28928,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28938,7 +28938,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28948,7 +28948,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28958,7 +28958,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28968,7 +28968,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28978,7 +28978,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28988,7 +28988,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -28998,7 +28998,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29008,7 +29008,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29018,7 +29018,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29028,7 +29028,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29038,7 +29038,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29048,7 +29048,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29058,7 +29058,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29068,7 +29068,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29078,7 +29078,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29088,7 +29088,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29098,7 +29098,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29108,7 +29108,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29118,7 +29118,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29128,7 +29128,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29138,7 +29138,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29148,7 +29148,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29158,7 +29158,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29168,7 +29168,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29178,7 +29178,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29188,7 +29188,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29198,7 +29198,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29208,7 +29208,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29218,7 +29218,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29228,7 +29228,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29238,7 +29238,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29248,7 +29248,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29258,7 +29258,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29268,7 +29268,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29278,7 +29278,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29288,7 +29288,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29298,7 +29298,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29308,7 +29308,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29318,7 +29318,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29328,7 +29328,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29338,7 +29338,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29348,7 +29348,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29358,7 +29358,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29368,7 +29368,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29378,7 +29378,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29388,7 +29388,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29398,7 +29398,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29408,7 +29408,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29418,7 +29418,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29428,7 +29428,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29438,7 +29438,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29448,7 +29448,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29458,7 +29458,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29468,7 +29468,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29478,7 +29478,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29488,7 +29488,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29498,7 +29498,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29508,7 +29508,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29518,7 +29518,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29528,7 +29528,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29538,7 +29538,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29548,7 +29548,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29558,7 +29558,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29568,7 +29568,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29578,7 +29578,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29588,7 +29588,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29598,7 +29598,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29608,7 +29608,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29618,7 +29618,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29628,7 +29628,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29638,7 +29638,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29648,7 +29648,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29658,7 +29658,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29668,7 +29668,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29678,7 +29678,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29688,7 +29688,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29698,7 +29698,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29708,7 +29708,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29718,7 +29718,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29728,7 +29728,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29738,7 +29738,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29748,7 +29748,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29758,7 +29758,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29768,7 +29768,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29778,7 +29778,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29788,7 +29788,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29798,7 +29798,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29808,7 +29808,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29818,7 +29818,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29828,7 +29828,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29838,7 +29838,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29848,7 +29848,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29858,7 +29858,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29868,7 +29868,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29878,7 +29878,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29888,7 +29888,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29898,7 +29898,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29908,7 +29908,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29918,7 +29918,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29928,7 +29928,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29938,7 +29938,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29948,7 +29948,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29958,7 +29958,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29968,7 +29968,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29978,7 +29978,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29988,7 +29988,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -29998,7 +29998,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30008,7 +30008,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30018,7 +30018,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30028,7 +30028,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30038,7 +30038,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30048,7 +30048,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30058,7 +30058,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30068,7 +30068,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30078,7 +30078,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30088,7 +30088,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30098,7 +30098,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30108,7 +30108,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30118,7 +30118,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30128,7 +30128,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30138,7 +30138,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30148,7 +30148,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30158,7 +30158,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30168,7 +30168,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30178,7 +30178,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30188,7 +30188,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30198,7 +30198,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30208,7 +30208,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30218,7 +30218,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30228,7 +30228,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30238,7 +30238,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30248,7 +30248,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30258,7 +30258,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30268,7 +30268,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30278,7 +30278,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30288,7 +30288,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30298,7 +30298,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30308,7 +30308,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30318,7 +30318,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30328,7 +30328,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30338,7 +30338,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30348,7 +30348,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30358,7 +30358,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30368,7 +30368,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30378,7 +30378,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30388,7 +30388,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30398,7 +30398,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30408,7 +30408,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30418,7 +30418,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30428,7 +30428,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30438,7 +30438,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30448,7 +30448,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30458,7 +30458,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30468,7 +30468,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30478,7 +30478,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30488,7 +30488,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30498,7 +30498,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30508,7 +30508,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30518,7 +30518,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30528,7 +30528,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30538,7 +30538,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30548,7 +30548,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30558,7 +30558,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30568,7 +30568,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30578,7 +30578,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30588,7 +30588,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30598,7 +30598,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30608,7 +30608,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30618,7 +30618,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30628,7 +30628,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30638,7 +30638,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30648,7 +30648,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30658,7 +30658,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30668,7 +30668,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30678,7 +30678,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30688,7 +30688,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30698,7 +30698,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30708,7 +30708,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30718,7 +30718,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30728,7 +30728,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30738,7 +30738,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30748,7 +30748,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30758,7 +30758,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30768,7 +30768,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30778,7 +30778,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30788,7 +30788,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30798,7 +30798,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30808,7 +30808,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30818,7 +30818,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30828,7 +30828,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30838,7 +30838,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30848,7 +30848,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30858,7 +30858,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30868,7 +30868,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30878,7 +30878,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30888,7 +30888,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30898,7 +30898,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30908,7 +30908,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30918,7 +30918,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30928,7 +30928,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30938,7 +30938,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30948,7 +30948,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30958,7 +30958,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30968,7 +30968,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30978,7 +30978,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30988,7 +30988,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -30998,7 +30998,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31008,7 +31008,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31018,7 +31018,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31028,7 +31028,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31038,7 +31038,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31048,7 +31048,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31058,7 +31058,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31068,7 +31068,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31078,7 +31078,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31088,7 +31088,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31098,7 +31098,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31108,7 +31108,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31118,7 +31118,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31128,7 +31128,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31138,7 +31138,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31148,7 +31148,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31158,7 +31158,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31168,7 +31168,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31178,7 +31178,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31188,7 +31188,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31198,7 +31198,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31208,7 +31208,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31218,7 +31218,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31228,7 +31228,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31238,7 +31238,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31248,7 +31248,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31258,7 +31258,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31268,7 +31268,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31278,7 +31278,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31288,7 +31288,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31298,7 +31298,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31308,7 +31308,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31318,7 +31318,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31328,7 +31328,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31338,7 +31338,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31348,7 +31348,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31358,7 +31358,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31368,7 +31368,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31378,7 +31378,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31388,7 +31388,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31398,7 +31398,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31408,7 +31408,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31418,7 +31418,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31428,7 +31428,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31438,7 +31438,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31448,7 +31448,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31458,7 +31458,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31468,7 +31468,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31478,7 +31478,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31488,7 +31488,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31498,7 +31498,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31508,7 +31508,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31518,7 +31518,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31528,7 +31528,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31538,7 +31538,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31548,7 +31548,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31558,7 +31558,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31568,7 +31568,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31578,7 +31578,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31588,7 +31588,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31598,7 +31598,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31608,7 +31608,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31618,7 +31618,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31628,7 +31628,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31638,7 +31638,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31648,7 +31648,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31658,7 +31658,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31668,7 +31668,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31678,7 +31678,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31688,7 +31688,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31698,7 +31698,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31708,7 +31708,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31718,7 +31718,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31728,7 +31728,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31738,7 +31738,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31748,7 +31748,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31758,7 +31758,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31768,7 +31768,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31778,7 +31778,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31788,7 +31788,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31798,7 +31798,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31808,7 +31808,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31818,7 +31818,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31828,7 +31828,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31838,7 +31838,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31848,7 +31848,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31858,7 +31858,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31868,7 +31868,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31878,7 +31878,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31888,7 +31888,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31898,7 +31898,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31908,7 +31908,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31918,7 +31918,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31928,7 +31928,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31938,7 +31938,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31948,7 +31948,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31958,7 +31958,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31968,7 +31968,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31978,7 +31978,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
@@ -31988,7 +31988,7 @@ INSERT INTO StudentInfo (
     'system', 'system'
 );
 
-INSERT INTO StudentInfo (
+INSERT IGNORE INTO StudentInfo (
     student_id, name, id_number, password, major_code, exam_center_name,
     gender, birth_date, phone, address,
     created_by, updated_by
