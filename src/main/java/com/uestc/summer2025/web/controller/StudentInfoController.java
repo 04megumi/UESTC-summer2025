@@ -11,6 +11,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
+import java.util.Map;
 
 @RestController
 @RequestMapping("/student-info")
@@ -20,10 +21,10 @@ public class StudentInfoController {
     private StudentInfoMapper studentInfoMapper;
 
     @PostMapping("/loadById")
-    public R<StudentInfo> loadById(@RequestBody String id) {
+    public R<StudentInfo> loadById(@RequestBody Map<String, Object> params) {
         try {
             QueryWrapper<StudentInfo> queryWrapper = new QueryWrapper<>();
-            queryWrapper.eq("student_id", id)
+            queryWrapper.eq("student_id", params.get("key"))
                     .eq("is_deleted", 0);
             return R.success(studentInfoMapper.selectOne(queryWrapper));
         } catch (Exception e) {
@@ -32,10 +33,10 @@ public class StudentInfoController {
     }
 
     @PostMapping("/loadByIdNumber")
-    public R<StudentInfo> loadByIdNumber(@RequestBody String idNumber) {
+    public R<StudentInfo> loadByIdNumber(@RequestBody Map<String, Object> params) {
         try {
             QueryWrapper<StudentInfo> queryWrapper = new QueryWrapper<>();
-            queryWrapper.eq("id_number", idNumber)
+            queryWrapper.eq("id_number", params.get("key"))
                     .eq("is_deleted", 0);
             return R.success(studentInfoMapper.selectOne(queryWrapper));
         } catch (Exception e) {
@@ -44,10 +45,10 @@ public class StudentInfoController {
     }
 
     @PostMapping("/loadByName")
-    public R<StudentInfo> loadByName(@RequestBody String name) {
+    public R<StudentInfo> loadByName(@RequestBody Map<String, Object> params) {
         try {
             QueryWrapper<StudentInfo> queryWrapper = new QueryWrapper<>();
-            queryWrapper.eq("name", name)
+            queryWrapper.eq("name", params.get("key"))
                     .eq("is_deleted", 0);
             return R.success(studentInfoMapper.selectOne(queryWrapper));
         } catch (Exception e) {
@@ -56,10 +57,10 @@ public class StudentInfoController {
     }
 
     @PostMapping("/loadByMajor")
-    public R<List<StudentInfo>> loadByMajor(@RequestBody String major) {
+    public R<List<StudentInfo>> loadByMajor(@RequestBody Map<String, Object> params) {
         try {
             QueryWrapper<StudentInfo> queryWrapper = new QueryWrapper<>();
-            queryWrapper.eq("major", major)
+            queryWrapper.eq("major", params.get("key"))
                     .eq("is_deleted", 0);
             return R.success(studentInfoMapper.selectList(queryWrapper));
         } catch (Exception e) {
@@ -68,10 +69,10 @@ public class StudentInfoController {
     }
 
     @PostMapping("/loadByGender")
-    public R<List<StudentInfo>> loadByGender(@RequestBody String gender) {
+    public R<List<StudentInfo>> loadByGender(@RequestBody Map<String, Object> params) {
         try {
             QueryWrapper<StudentInfo> queryWrapper = new QueryWrapper<>();
-            queryWrapper.eq("gender", gender)
+            queryWrapper.eq("gender", params.get("key"))
                     .eq("is_deleted", 0);
             return R.success(studentInfoMapper.selectList(queryWrapper));
         } catch (Exception e) {
@@ -80,10 +81,11 @@ public class StudentInfoController {
     }
 
     @PostMapping("/loadByExamCenterName")
-    public R<List<StudentInfo>> loadByExam(@RequestBody String examCenterName) {
+    public R<List<StudentInfo>> loadByExam(@RequestBody Map<String, Object> params) {
         try {
+            System.out.println(params);
             QueryWrapper<StudentInfo> queryWrapper = new QueryWrapper<>();
-            queryWrapper.eq("exam_center_name", examCenterName)
+            queryWrapper.eq("exam_center_name", params.get("key"))
                     .eq("is_deleted", 0);
             return R.success(studentInfoMapper.selectList(queryWrapper));
         } catch (Exception e) {
