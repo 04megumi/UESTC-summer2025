@@ -1,6 +1,7 @@
 package com.uestc.summer2025.web.controller;
 
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
+import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import com.uestc.summer2025.data.entity.*;
 import com.uestc.summer2025.data.mapper.*;
 import com.uestc.summer2025.service.TransformService;
@@ -8,6 +9,7 @@ import com.uestc.summer2025.util.R;
 import com.uestc.summer2025.web.dto.ExemptionApplication1DTO;
 import com.uestc.summer2025.web.dto.ExemptionApplication2DTO;
 import com.uestc.summer2025.web.dto.NameDTO;
+import com.uestc.summer2025.web.dto.StudentPageDTO;
 import com.uestc.summer2025.web.vo.ExemptionApplicationVO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;
@@ -162,35 +164,52 @@ public class ApplicationController {
     }
 
     /**
-     * 根据管理员姓名加载其管理的所有免考申请记录
+     * 根据管理员姓名分页加载其管理的免考申请记录
      *
      * 请求方式：POST
      * 请求路径：/application/admin-load
      *
-     * 请求参数：
+     * 请求参数（JSON）：
      * {
-     *     "name": "管理员姓名"
+     *     "key": "管理员姓名",   // 管理员姓名，用于查询对应管理员
+     *     "pageNum": 1,         // 当前页码，默认1
+     *     "pageSize": 10        // 每页大小，默认10
      * }
      *
      * 返回值：
-     * 该管理员所负责审批的所有免考申请记录列表（封装为 ExemptionApplicationVO）
+     * 该管理员所负责审批的免考申请记录分页列表（封装为 ExemptionApplicationVO 列表）
+     *
+     * 注意：
+     * - 仅查询未逻辑删除的管理员和免考申请记录
+     * - 若管理员不存在则返回失败信息
      */
     @PostMapping("/admin-load")
-    public R<List<ExemptionApplicationVO>> adminLoad(@RequestBody NameDTO nameDTO) {
+    public R<List<ExemptionApplicationVO>> adminLoad(@RequestBody StudentPageDTO pageDTO) {
         try {
             // 1. 根据管理员姓名查 admin_id
             QueryWrapper<AdminInfo> adminWrapper = new QueryWrapper<>();
-            adminWrapper.eq("full_name", nameDTO.getName()).eq("is_deleted", 0);
+            adminWrapper.eq("full_name", pageDTO.getKey()).eq("is_deleted", 0);
             AdminInfo admin = adminInfoMapper.selectOne(adminWrapper);
             if (admin == null) return R.failed("管理员不存在");
             String adminId = admin.getAdminId();
-            // 2. 查询该管理员所管理的所有免考申请记录
+
+            // 2. 构造分页对象
+            int currentPage = pageDTO.getPageNum() == null ? 1 : pageDTO.getPageNum();
+            int pageSize = pageDTO.getPageSize() == null ? 10 : pageDTO.getPageSize();
+            Page<ExemptionApplication> page = new Page<>(currentPage, pageSize);
+
+            // 3. 查询该管理员所管理的所有免考申请记录（分页）
             QueryWrapper<ExemptionApplication> applicationWrapper = new QueryWrapper<>();
             applicationWrapper.eq("admin_id", adminId).eq("is_deleted", 0);
-            List<ExemptionApplication> applications = exemptionApplicationMapper.selectList(applicationWrapper);
-            // 3. 转换为 VO 列表
+
+            Page<ExemptionApplication> applicationPage = exemptionApplicationMapper.selectPage(page, applicationWrapper);
+
+            // 4. 转换为 VO 列表
             List<ExemptionApplicationVO> voList = new ArrayList<>();
-            applications.forEach(app -> voList.add(toVO(app)));
+            for (ExemptionApplication app : applicationPage.getRecords()) {
+                voList.add(toVO(app));
+            }
+
             return R.success(voList);
         } catch (Exception e) {
             return R.failed("加载管理员审批记录失败：" + e.getMessage());
