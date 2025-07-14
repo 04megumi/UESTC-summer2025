@@ -1,9 +1,11 @@
 package com.uestc.summer2025.data.entity;
 
+import com.baomidou.mybatisplus.annotation.TableId;
 import com.uestc.summer2025.base.CommonBaseEntity;
 import com.baomidou.mybatisplus.annotation.TableName;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
+import lombok.NoArgsConstructor;
 import lombok.NonNull;
 import java.io.Serial;
 
@@ -17,6 +19,7 @@ import java.io.Serial;
  */
 @Data
 @EqualsAndHashCode(callSuper = true)
+@NoArgsConstructor
 @TableName("ExemptionRule")
 public class ExemptionRule extends CommonBaseEntity<ExemptionRule> {
 
@@ -24,6 +27,7 @@ public class ExemptionRule extends CommonBaseEntity<ExemptionRule> {
     private static final long serialVersionUID = 1L;
 
     // 免考规则ID（主键）
+    @TableId
     private Long ruleId;
 
     // 规则名称
