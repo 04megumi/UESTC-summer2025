@@ -1,6 +1,8 @@
 package com.uestc.summer2025.web.controller;
 
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
+import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
+import com.uestc.summer2025.constant.StudentConst;
 import com.uestc.summer2025.data.entity.CourseInfo;
 import com.uestc.summer2025.data.entity.MajorInfo;
 import com.uestc.summer2025.data.entity.StudentCourse;
@@ -12,11 +14,9 @@ import com.uestc.summer2025.data.mapper.StudentInfoMapper;
 import com.uestc.summer2025.service.TransformService;
 import com.uestc.summer2025.util.R;
 import com.uestc.summer2025.web.vo.GraduateVO;
+import com.uestc.summer2025.web.vo.GraduateVO2;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -151,6 +151,94 @@ public class StudentGraduateController {
             }
         } catch (Exception e) {
             return R.failed("毕业信息生成失败：" + e.getMessage());
+        }
+    }
+
+    /**
+     * 判断一个学生是否符合毕业要求，返回 GraduateVO，未毕业则返回 null
+     */
+    private GraduateVO2 buildGraduateInfo(StudentInfo studentInfo) {
+        try {
+            String majorCode = studentInfo.getMajorCode();
+            String majorName = transformService.majorIdToName(majorCode);
+            MajorInfo majorInfo = majorInfoMapper.selectOne(
+                    new QueryWrapper<MajorInfo>().eq("code", majorCode)
+            );
+            if (majorInfo == null) return null;
+
+            double graduateCredit = majorInfo.getGraduateCredit();
+            List<StudentCourse> studentCourses = studentCourseMapper.selectList(
+                    new QueryWrapper<StudentCourse>().eq("student_id", studentInfo.getStudentId())
+            );
+
+            GraduateVO2 vo = new GraduateVO2();
+            vo.setStudentId(studentInfo.getStudentId());
+            vo.setStudentName(studentInfo.getName());
+            vo.setGender(studentInfo.getGender());
+            vo.setStudentIdNumber(studentInfo.getIdNumber());
+            vo.setExamCenterName(studentInfo.getExamCenterName());
+            vo.setMajorId(majorCode);
+            vo.setMajorName(majorName);
+
+            int totalCredits = 0, totalScores = 0;
+            List<String> courseNames = new ArrayList<>();
+
+            for (StudentCourse sc : studentCourses) {
+                CourseInfo ci = courseInfoMapper.selectOne(
+                        new QueryWrapper<CourseInfo>().eq("course_code", sc.getCourseCode())
+                );
+                if (ci != null) {
+                    totalCredits += ci.getCredit().intValue();
+                    totalScores += sc.getScore().intValue();
+                    courseNames.add(ci.getName());
+                }
+            }
+
+            int numCourses = courseNames.size();
+            int avgScore = numCourses == 0 ? 0 : totalScores / numCourses;
+
+            vo.setNumOfCourses(numCourses);
+            vo.setNumOfCredits(totalCredits);
+            vo.setAverageScores(avgScore);
+
+            if (totalCredits >= graduateCredit) {
+                return vo;
+            }
+
+            return null; // 学分不够，不算毕业
+        } catch (Exception e) {
+            return null;
+        }
+    }
+
+
+    /**
+     * 加载所有已毕业学生信息
+     * GET /loadAll
+     */
+    @GetMapping("/loadAll")
+    public R<List<GraduateVO2>> loadAll() {
+        try {
+            // 构造分页对象
+            Page<StudentInfo> page = new Page<>(1, 500);
+
+            // 构造查询条件：姓名在名单中 且未被逻辑删除
+            QueryWrapper<StudentInfo> queryWrapper = new QueryWrapper<>();
+            queryWrapper.eq("is_deleted", 0)
+                    .in("name", StudentConst.BATCH1_NAMES);
+            // 分页查询
+            Page<StudentInfo> studentPage = studentInfoMapper.selectPage(page, queryWrapper);
+            // 构造返回的毕业信息列表
+            List<GraduateVO2> graduatedList = new ArrayList<>();
+            for (StudentInfo student : studentPage.getRecords()) {
+                GraduateVO2 graduateVO = buildGraduateInfo(student);
+                if (graduateVO != null) {
+                    graduatedList.add(graduateVO);
+                }
+            }
+            return R.success(graduatedList);
+        } catch (Exception e) {
+            return R.failed("分页毕业查询失败：" + e.getMessage());
         }
     }
 }
