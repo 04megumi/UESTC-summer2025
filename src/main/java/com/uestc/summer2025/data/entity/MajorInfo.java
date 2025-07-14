@@ -1,9 +1,11 @@
 package com.uestc.summer2025.data.entity;
 
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.uestc.summer2025.base.CommonBaseEntity;
 import com.baomidou.mybatisplus.annotation.TableName;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
+import lombok.NoArgsConstructor;
 import lombok.NonNull;
 import java.io.Serial;
 
@@ -17,6 +19,8 @@ import java.io.Serial;
 @Data
 @EqualsAndHashCode(callSuper = true)
 @TableName("MajorInfo")
+@NoArgsConstructor
+@JsonIgnoreProperties(ignoreUnknown = true)
 public class MajorInfo extends CommonBaseEntity<MajorInfo> {
 
     @Serial
