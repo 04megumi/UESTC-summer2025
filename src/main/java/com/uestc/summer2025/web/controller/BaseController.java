@@ -1,6 +1,7 @@
 package com.uestc.summer2025.web.controller;
 
 import com.uestc.summer2025.data.entity.CourseInfo;
+import com.uestc.summer2025.data.entity.ExamCenter;
 import com.uestc.summer2025.data.entity.MajorInfo;
 import com.uestc.summer2025.service.CacheService;
 import com.uestc.summer2025.util.R;
@@ -11,7 +12,6 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import java.util.ArrayList;
 import java.util.List;
 
 @RestController
@@ -90,6 +90,37 @@ public class BaseController {
                     .map(this::majorToVO)
                     .toList();
             return R.success(majorInfoVOList);
+        } catch (Exception e) {
+            return R.failed(e.getMessage());
+        }
+    }
+
+    /**
+     * 获取所有考试院名称列表
+     * 接口 URL: GET /get-examCenters
+     * 功能说明:
+     * 从缓存中获取所有考试院实体，并提取其名称字段，返回考试院名称列表。
+     * 常用于下拉框等前端展示用途。
+     *
+     * 返回示例:
+     * {
+     *   "code": 100000,
+     *   "msg": null,
+     *   "data": [
+     *     "四川省教育考试院",
+     *     "成都市招考办",
+     *     "自贡市招生办公室"
+     *   ]
+     * }
+     *
+     * @return R<List<String>> 考试院名称列表的响应包装类
+     */
+    @GetMapping("/get-examCenters")
+    public R<List<String>> examCentersToVO() {
+        try {
+            List<ExamCenter> examCenters = cacheService.getAllExamCenters();
+            List<String> examCenterNames = examCenters.stream().map(ExamCenter::getExamCenterName).toList();
+            return R.success(examCenterNames);
         } catch (Exception e) {
             return R.failed(e.getMessage());
         }
