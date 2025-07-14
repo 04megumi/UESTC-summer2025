@@ -4,6 +4,7 @@ import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import com.uestc.summer2025.data.entity.StudentInfo;
 import com.uestc.summer2025.data.mapper.StudentInfoMapper;
+import com.uestc.summer2025.service.TransformService;
 import com.uestc.summer2025.util.R;
 import com.uestc.summer2025.web.dto.StudentPageDTO;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -25,6 +26,9 @@ public class StudentInfoController {
 
     @Autowired
     private StudentInfoMapper studentInfoMapper;
+
+    @Autowired
+    private TransformService transformService;
 
     /**
      * 根据学生ID查询学生信息
@@ -99,12 +103,13 @@ public class StudentInfoController {
     public R<Page<StudentInfo>> loadByMajor(@RequestBody StudentPageDTO params) {
         try {
             String major = params.getKey();
+            String major_code = transformService.majorNameToId(major);
             int pageNum = params.getPageNum();
             int pageSize = params.getPageSize();
 
             Page<StudentInfo> page = new Page<>(pageNum, pageSize);
             QueryWrapper<StudentInfo> queryWrapper = new QueryWrapper<>();
-            queryWrapper.eq("major", major).eq("is_deleted", 0);
+            queryWrapper.eq("major_code", major_code).eq("is_deleted", 0);
 
             return R.success(studentInfoMapper.selectPage(page, queryWrapper));
         } catch (Exception e) {
