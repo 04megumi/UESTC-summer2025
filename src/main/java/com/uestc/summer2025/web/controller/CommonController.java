@@ -1,19 +1,14 @@
 package com.uestc.summer2025.web.controller;
 
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
-import com.uestc.summer2025.data.entity.AdminInfo;
-import com.uestc.summer2025.data.entity.StudentInfo;
-import com.uestc.summer2025.data.mapper.AdminInfoMapper;
-import com.uestc.summer2025.data.mapper.StudentInfoMapper;
+import com.uestc.summer2025.data.entity.*;
+import com.uestc.summer2025.data.mapper.*;
 import com.uestc.summer2025.util.R;
 import com.uestc.summer2025.web.dto.AdminRegisterDTO;
 import com.uestc.summer2025.web.dto.LogInDTO;
 import com.uestc.summer2025.web.dto.StudentRegisterDTO;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 import java.util.Objects;
 import java.util.UUID;
@@ -34,6 +29,15 @@ public class CommonController {
 
     @Autowired
     AdminInfoMapper adminInfoMapper;
+
+    @Autowired
+    MajorInfoMapper majorInfoMapper;
+
+    @Autowired
+    CourseInfoMapper courseInfoMapper;
+
+    @Autowired
+    ExamCenterMapper examCenterMapper;
 
     /**
      * 用户登录接口（支持考生与管理员）
@@ -141,6 +145,84 @@ public class CommonController {
             }
         } catch (Exception e) {
             return R.failed("检查考试院信息");
+        }
+    }
+
+    /**
+     * 获取专业数量（未被逻辑删除）
+     *
+     * 接口路径：GET /numOfMajor
+     * 请求方式：GET
+     * 响应示例：
+     * {
+     *   "code": 100000,
+     *   "msg": "success",
+     *   "data": 15
+     * }
+     *
+     * @return 专业数量
+     */
+    @GetMapping("/numOfMajor")
+    public R<Integer> numOfMajors() {
+        try {
+            QueryWrapper<MajorInfo> wrapper = new QueryWrapper<>();
+            wrapper.eq("is_deleted", 0);
+            int count = majorInfoMapper.selectCount(wrapper);
+            return R.success(count);
+        } catch (Exception e) {
+            return R.failed(e.getMessage());
+        }
+    }
+
+    /**
+     * 获取课程数量（未被逻辑删除）
+     *
+     * 接口路径：GET /numOfCourse
+     * 请求方式：GET
+     * 响应示例：
+     * {
+     *   "code": 100000,
+     *   "msg": "success",
+     *   "data": 120
+     * }
+     *
+     * @return 课程数量
+     */
+    @GetMapping("/numOfCourse")
+    public R<Integer> numOfCourse() {
+        try {
+            QueryWrapper<CourseInfo> wrapper = new QueryWrapper<>();
+            wrapper.eq("is_deleted", 0);
+            int count = courseInfoMapper.selectCount(wrapper);
+            return R.success(count);
+        } catch (Exception e) {
+            return R.failed(e.getMessage());
+        }
+    }
+
+    /**
+     * 获取考试院数量（未被逻辑删除）
+     *
+     * 接口路径：GET /numOfExamCenters
+     * 请求方式：GET
+     * 响应示例：
+     * {
+     *   "code": 100000,
+     *   "msg": "success",
+     *   "data": 8
+     * }
+     *
+     * @return 考试院数量
+     */
+    @GetMapping("/numOfExamCenters")
+    public R<Integer> numOfExamCenters() {
+        try {
+            QueryWrapper<ExamCenter> wrapper = new QueryWrapper<>();
+            wrapper.eq("is_deleted", 0);
+            int count = examCenterMapper.selectCount(wrapper);
+            return R.success(count);
+        } catch (Exception e) {
+            return R.failed(e.getMessage());
         }
     }
 }

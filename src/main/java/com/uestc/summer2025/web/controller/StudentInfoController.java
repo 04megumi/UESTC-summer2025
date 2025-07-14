@@ -1,14 +1,12 @@
 package com.uestc.summer2025.web.controller;
 
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
+import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import com.uestc.summer2025.data.entity.StudentInfo;
 import com.uestc.summer2025.data.mapper.StudentInfoMapper;
 import com.uestc.summer2025.util.R;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 import java.util.Map;
@@ -139,6 +137,59 @@ public class StudentInfoController {
             return R.success(studentInfoMapper.selectList(queryWrapper));
         } catch (Exception e) {
             return R.failed(e.getMessage());
+        }
+    }
+
+    /**
+     * 分页查询学生信息（可按姓名模糊搜索）
+     *
+     * 接口 URL: GET /student-info/page
+     * 请求参数:
+     *   - pageNum: 当前页码（从 1 开始）
+     *   - pageSize: 每页条数
+     *   - name: （可选）按学生姓名模糊查询
+     *
+     * 返回值: 分页后的学生信息列表
+     */
+    @GetMapping("/page")
+    public R<Page<StudentInfo>> getStudentsByPage(@RequestParam(defaultValue = "1") int pageNum,
+                                                  @RequestParam(defaultValue = "10") int pageSize,
+                                                  @RequestParam(required = false) String name) {
+        try {
+            Page<StudentInfo> page = new Page<>(pageNum, pageSize);
+            QueryWrapper<StudentInfo> queryWrapper = new QueryWrapper<>();
+            queryWrapper.eq("is_deleted", 0);
+            if (name != null && !name.isEmpty()) {
+                queryWrapper.like("name", name);
+            }
+            Page<StudentInfo> result = studentInfoMapper.selectPage(page, queryWrapper);
+            return R.success(result);
+        } catch (Exception e) {
+            return R.failed("分页查询失败：" + e.getMessage());
+        }
+    }
+
+    /**
+     * 分页查询所有学生信息（不支持模糊匹配）
+     *
+     * 接口 URL: GET /student-info/page-all
+     * 请求参数:
+     *   - pageNum: 当前页码（从 1 开始）
+     *   - pageSize: 每页条数
+     *
+     * 返回值: 分页后的学生信息列表
+     */
+    @GetMapping("/page-all")
+    public R<Page<StudentInfo>> getAllStudentsByPage(@RequestParam(defaultValue = "1") int pageNum,
+                                                     @RequestParam(defaultValue = "10") int pageSize) {
+        try {
+            Page<StudentInfo> page = new Page<>(pageNum, pageSize);
+            QueryWrapper<StudentInfo> queryWrapper = new QueryWrapper<>();
+            queryWrapper.eq("is_deleted", 0);
+            Page<StudentInfo> result = studentInfoMapper.selectPage(page, queryWrapper);
+            return R.success(result);
+        } catch (Exception e) {
+            return R.failed("分页查询失败：" + e.getMessage());
         }
     }
 }
