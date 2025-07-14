@@ -3,12 +3,12 @@ package com.uestc.summer2025.web.controller;
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import com.uestc.summer2025.data.entity.StudentInfo;
-import com.uestc.summer2025.data.mapper.ExemptionApplicationMapper;
 import com.uestc.summer2025.data.mapper.StudentInfoMapper;
 import com.uestc.summer2025.service.TransformService;
 import com.uestc.summer2025.util.R;
 import com.uestc.summer2025.web.dto.StudentInfoChange1DTO;
 import com.uestc.summer2025.web.dto.StudentInfoChange2DTO;
+import com.uestc.summer2025.web.dto.StudentInfoChange3DTO;
 import com.uestc.summer2025.web.dto.StudentPageDTO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
@@ -33,8 +33,6 @@ public class StudentInfoController {
     @Autowired
     private TransformService transformService;
 
-    @Autowired
-    private ExemptionApplicationMapper exemptionApplicationMapper;
 
     /**
      * 根据学生ID查询学生信息
@@ -320,6 +318,45 @@ public class StudentInfoController {
             studentInfo.setIdNumber(dto.getNumberId());
             studentInfo.setFrozened(dto.isFrozened());
             studentInfo.setIsDeleted(dto.isDeleted());
+
+            int rows = studentInfoMapper.updateById(studentInfo);
+            if (rows > 0) {
+                return R.success("学生信息修改成功");
+            } else {
+                return R.failed("学生信息修改失败");
+            }
+        } catch (Exception e) {
+            return R.failed("学生信息修改出错：" + e.getMessage());
+        }
+    }
+
+    /**
+     * 学生信息修改接口（修改姓名、身份证号、冻结状态）
+     *
+     * 请求方式：POST
+     * 请求路径：/student-examCenter-update
+     *
+     * 请求参数（JSON 格式）：
+     * {
+     *     "name": "原姓名",
+     *     "examCenterName": "考试院名称"
+     * }
+     *
+     * @param dto 学生信息修改 DTO（含原姓名、新姓名、新身份证号、是否冻结）
+     * @return 操作结果的统一响应结构 R
+     */
+    @PostMapping("/student-examCenter-update")
+    public R<String> updateStudentExamCenter(@RequestBody StudentInfoChange3DTO dto) {
+        try {
+            QueryWrapper<StudentInfo> queryWrapper = new QueryWrapper<>();
+            queryWrapper.eq("name", dto.getName());
+            StudentInfo studentInfo = studentInfoMapper.selectOne(queryWrapper);
+
+            if (studentInfo == null) {
+                return R.failed("该学生不存在，无法修改信息");
+            }
+
+            studentInfo.setExamCenterName(dto.getExamCenterName());
 
             int rows = studentInfoMapper.updateById(studentInfo);
             if (rows > 0) {
