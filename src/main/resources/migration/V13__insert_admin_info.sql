@@ -6,7 +6,6 @@ VALUES
     (UUID(), 'admin_password_hash35', '师三十七', '0471-10000004', 'admin_neimenggu@example.com', '内蒙古考试院', 0, 0, 0, NOW(), NOW(), 'root', 'root'),
     (UUID(), 'admin_password_hash36', '师三十八', '024-10000005', 'admin_liaoning@example.com', '辽宁考试院', 0, 0, 0, NOW(), NOW(), 'root', 'root'),
     (UUID(), 'admin_password_hash37', '师三十九', '0431-10000006', 'admin_jilin@example.com', '吉林考试院', 0, 0, 0, NOW(), NOW(), 'root', 'root'),
-    (UUID(), 'admin_password_hash38', '师四十', '029-10000007', 'admin_shaanxi@example.com', '陕西考试院', 0, 0, 0, NOW(), NOW(), 'root', 'root'),
-    (UUID(), 'admin_password_hash39', '师四十一', '0891-10000008', 'admin_xizang@example.com', '西藏考试院', 0, 0, 0, NOW(), NOW(), 'root', 'root'),
-    (UUID(), 'admin_password_hash40', '师四十二', '0991-10000009', 'admin_xinjiang@example.com', '新疆考试院', 0, 0, 0, NOW(), NOW(), 'root', 'root'),
+    (UUID(), 'admin_password_hash39', '师四十一', '0891-10000008', 'admin_xizang@example.com', '海南考试院', 0, 0, 0, NOW(), NOW(), 'root', 'root'),
+    (UUID(), 'admin_password_hash40', '师四十二', '0991-10000009', 'admin_xinjiang@example.com', '北京考试院', 0, 0, 0, NOW(), NOW(), 'root', 'root'),
     (UUID(), 'admin_password_hash41', '师四十三', '010-10000010', 'admin_quanguo@example.com', '全国考试院', 0, 0, 0, NOW(), NOW(), 'root', 'root');

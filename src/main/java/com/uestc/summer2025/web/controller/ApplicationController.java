@@ -3,9 +3,12 @@ package com.uestc.summer2025.web.controller;
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.uestc.summer2025.data.entity.*;
 import com.uestc.summer2025.data.mapper.*;
+import com.uestc.summer2025.service.TransformService;
 import com.uestc.summer2025.util.R;
 import com.uestc.summer2025.web.dto.ExemptionApplication1DTO;
 import com.uestc.summer2025.web.dto.ExemptionApplication2DTO;
+import com.uestc.summer2025.web.dto.NameDTO;
+import com.uestc.summer2025.web.vo.ExemptionApplicationVO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
@@ -13,6 +16,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import java.time.LocalDateTime;
+import java.util.ArrayList;
+import java.util.List;
 
 /**
  * 免考申请控制器
@@ -36,6 +41,9 @@ public class ApplicationController {
 
     @Autowired
     AdminInfoMapper adminInfoMapper;
+
+    @Autowired
+    TransformService transformService;
 
     /**
      * 学生提交免考申请接口
@@ -115,5 +123,91 @@ public class ApplicationController {
         } catch (Exception e) {
             return R.failed("审批失败：" + e.getMessage());
         }
+    }
+
+    /**
+     * 根据学生姓名查询其所有免考申请记录
+     *
+     * 请求方式：POST
+     * 请求路径：/application/student-load
+     *
+     * 请求参数：
+     * {
+     *     "name": "学生姓名"
+     * }
+     *
+     * 返回值：
+     * 所有对应学生的免考申请记录列表（封装为 ExemptionApplicationVO）
+     */
+    @PostMapping("/student-load")
+    public R<List<ExemptionApplicationVO>> studentLoad(@RequestBody NameDTO nameDTO) {
+        try {
+            // 1. 根据学生姓名查 studentId
+            QueryWrapper<StudentInfo> studentWrapper = new QueryWrapper<>();
+            studentWrapper.eq("name", nameDTO.getName()).eq("is_deleted", 0);
+            StudentInfo student = studentInfoMapper.selectOne(studentWrapper);
+            if (student == null) return R.failed("学生不存在");
+            String studentId = student.getStudentId();
+            // 2. 查询该学生所有未删除的免考申请记录
+            QueryWrapper<ExemptionApplication> exemptionApplicationQueryWrapper = new QueryWrapper<>();
+            exemptionApplicationQueryWrapper.eq("student_id", studentId).eq("is_deleted", 0);
+            List<ExemptionApplication> exemptionApplications = exemptionApplicationMapper.selectList(exemptionApplicationQueryWrapper);
+            // 3. 转换为 VO 列表
+            List<ExemptionApplicationVO> exemptionApplicationVOS = new ArrayList<>();
+            exemptionApplications.forEach(app -> exemptionApplicationVOS.add(toVO(app)));
+            return R.success(exemptionApplicationVOS);
+        } catch (Exception e) {
+            return R.failed("加载学生申请记录失败：" + e.getMessage());
+        }
+    }
+
+    /**
+     * 根据管理员姓名加载其管理的所有免考申请记录
+     *
+     * 请求方式：POST
+     * 请求路径：/application/admin-load
+     *
+     * 请求参数：
+     * {
+     *     "name": "管理员姓名"
+     * }
+     *
+     * 返回值：
+     * 该管理员所负责审批的所有免考申请记录列表（封装为 ExemptionApplicationVO）
+     */
+    @PostMapping("/admin-load")
+    public R<List<ExemptionApplicationVO>> adminLoad(@RequestBody NameDTO nameDTO) {
+        try {
+            // 1. 根据管理员姓名查 admin_id
+            QueryWrapper<AdminInfo> adminWrapper = new QueryWrapper<>();
+            adminWrapper.eq("full_name", nameDTO.getName()).eq("is_deleted", 0);
+            AdminInfo admin = adminInfoMapper.selectOne(adminWrapper);
+            if (admin == null) return R.failed("管理员不存在");
+            String adminId = admin.getAdminId();
+            // 2. 查询该管理员所管理的所有免考申请记录
+            QueryWrapper<ExemptionApplication> applicationWrapper = new QueryWrapper<>();
+            applicationWrapper.eq("admin_id", adminId).eq("is_deleted", 0);
+            List<ExemptionApplication> applications = exemptionApplicationMapper.selectList(applicationWrapper);
+            // 3. 转换为 VO 列表
+            List<ExemptionApplicationVO> voList = new ArrayList<>();
+            applications.forEach(app -> voList.add(toVO(app)));
+            return R.success(voList);
+        } catch (Exception e) {
+            return R.failed("加载管理员审批记录失败：" + e.getMessage());
+        }
+    }
+
+    private ExemptionApplicationVO toVO(ExemptionApplication exemptionApplication) {
+        ExemptionApplicationVO exemptionApplicationVO = new ExemptionApplicationVO();
+        exemptionApplicationVO.setApplicationId(exemptionApplication.getApplicationId());
+        exemptionApplicationVO.setStudentId(exemptionApplication.getStudentId());
+        exemptionApplicationVO.setCourseCode(exemptionApplication.getCourseCode());
+        exemptionApplicationVO.setRuleId(exemptionApplication.getRuleId());
+        exemptionApplicationVO.setStatus(exemptionApplication.getStatus());
+        exemptionApplicationVO.setReviewReason(exemptionApplication.getReviewReason());
+        exemptionApplicationVO.setAdminId(exemptionApplication.getAdminId());
+        exemptionApplicationVO.setUpdateTime(exemptionApplication.getUpdateTime());
+        exemptionApplicationVO.setCourseName(transformService.courseIdToName(exemptionApplication.getCourseCode()));
+        return exemptionApplicationVO;
     }
 }
