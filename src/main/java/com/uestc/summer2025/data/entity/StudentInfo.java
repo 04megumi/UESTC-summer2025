@@ -45,7 +45,7 @@ public class StudentInfo extends CommonBaseEntity<StudentInfo> {
     private String majorCode;
 
     // 州级考试院ID（外键）
-    private String examCenterId;
+    private String examCenterName;
 
     // 性别
     private String gender = "男";  // 默认值为“男”
