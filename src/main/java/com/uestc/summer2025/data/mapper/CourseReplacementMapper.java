@@ -4,6 +4,8 @@ import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import com.uestc.summer2025.data.entity.CourseReplacement;
 import org.apache.ibatis.annotations.*;
 
+import java.util.List;
+
 /**
  * 课程替换表 Mapper 接口
  * 提供 CourseReplacement 实体的基本 CRUD 操作
@@ -36,4 +38,13 @@ public interface CourseReplacementMapper extends BaseMapper<CourseReplacement> {
     int activateCourseReplacement(@Param("oldCourseCode") String oldCourseCode,
                                   @Param("newCourseCode") String newCourseCode,
                                   @Param("majorCode") String majorCode);
+
+    @Select("SELECT old_course_code, new_course_code, major_code, is_deleted FROM CourseReplacement WHERE is_deleted = 0")
+    @Results({
+            @Result(property = "oldCourseCode", column = "old_course_code"),
+            @Result(property = "newCourseCode", column = "new_course_code"),
+            @Result(property = "majorCode", column = "major_code"),
+            @Result(property = "isDeleted", column = "is_deleted")
+    })
+    List<CourseReplacement> findAllCourseReplacement();
 }

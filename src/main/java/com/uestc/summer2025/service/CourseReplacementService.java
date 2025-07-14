@@ -9,6 +9,7 @@ import org.springframework.stereotype.Service;
 
 import java.time.LocalDate;
 import java.util.List;
+import java.util.stream.Collectors;
 
 @Service
 public class CourseReplacementService {
@@ -89,7 +90,9 @@ public class CourseReplacementService {
 
 
     public List<CourseReplacementVO> loadAllCourseReplacementVO() {
-        return null;
+        return courseReplacementRepository.loadAllCourseReplacement().stream()
+                .map(this::toCourseReplacementVO)
+                .collect(Collectors.toList());
     }
 
     public List<CourseReplacementVO> loadAllCourseReplacementVOByPage(int pageNum, int pageSize) {
@@ -97,6 +100,12 @@ public class CourseReplacementService {
     }
 
     private CourseReplacementVO toCourseReplacementVO(CourseReplacement courseReplacement) {
-        return null;
+        CourseReplacementVO courseReplacementVO = new CourseReplacementVO();
+        courseReplacementVO.setNewCourseCode(courseReplacement.getNewCourseCode());
+        courseReplacementVO.setOldCourseCode(courseReplacement.getOldCourseCode());
+        courseReplacementVO.setNewCourseName(transformService.courseIdToName(courseReplacement.getNewCourseCode()));
+        courseReplacementVO.setOldCourseName(transformService.courseIdToName(courseReplacement.getOldCourseCode()));
+        courseReplacementVO.setMajorName(transformService.majorIdToName(courseReplacement.getMajorCode()));
+        return courseReplacementVO;
     }
 }

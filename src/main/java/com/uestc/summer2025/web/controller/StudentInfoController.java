@@ -13,6 +13,13 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.List;
 import java.util.Map;
 
+/**
+ * 学生信息接口控制器
+ * 提供根据不同字段查询考生信息的接口
+ *
+ * author: 魏子越
+ * date: 2025/07/14
+ */
 @RestController
 @RequestMapping("/student-info")
 public class StudentInfoController {
@@ -20,6 +27,13 @@ public class StudentInfoController {
     @Autowired
     private StudentInfoMapper studentInfoMapper;
 
+    /**
+     * 根据学生ID查询学生信息
+     *
+     * 接口 URL: POST /student-info/loadById
+     * 请求参数: {"key": "学生ID"}
+     * 返回值: 单个学生信息对象
+     */
     @PostMapping("/loadById")
     public R<StudentInfo> loadById(@RequestBody Map<String, Object> params) {
         try {
@@ -32,6 +46,13 @@ public class StudentInfoController {
         }
     }
 
+    /**
+     * 根据身份证号查询学生信息
+     *
+     * 接口 URL: POST /student-info/loadByIdNumber
+     * 请求参数: {"key": "身份证号"}
+     * 返回值: 单个学生信息对象
+     */
     @PostMapping("/loadByIdNumber")
     public R<StudentInfo> loadByIdNumber(@RequestBody Map<String, Object> params) {
         try {
@@ -44,6 +65,13 @@ public class StudentInfoController {
         }
     }
 
+    /**
+     * 根据学生姓名查询学生信息
+     *
+     * 接口 URL: POST /student-info/loadByName
+     * 请求参数: {"key": "学生姓名"}
+     * 返回值: 单个学生信息对象
+     */
     @PostMapping("/loadByName")
     public R<StudentInfo> loadByName(@RequestBody Map<String, Object> params) {
         try {
@@ -56,6 +84,13 @@ public class StudentInfoController {
         }
     }
 
+    /**
+     * 根据专业代码查询学生列表
+     *
+     * 接口 URL: POST /student-info/loadByMajor
+     * 请求参数: {"key": "专业代码"}
+     * 返回值: 学生信息列表
+     */
     @PostMapping("/loadByMajor")
     public R<List<StudentInfo>> loadByMajor(@RequestBody Map<String, Object> params) {
         try {
@@ -68,6 +103,13 @@ public class StudentInfoController {
         }
     }
 
+    /**
+     * 根据性别查询学生列表
+     *
+     * 接口 URL: POST /student-info/loadByGender
+     * 请求参数: {"key": "性别"} // "男" 或 "女"
+     * 返回值: 学生信息列表
+     */
     @PostMapping("/loadByGender")
     public R<List<StudentInfo>> loadByGender(@RequestBody Map<String, Object> params) {
         try {
@@ -80,6 +122,13 @@ public class StudentInfoController {
         }
     }
 
+    /**
+     * 根据考试院名称查询学生列表
+     *
+     * 接口 URL: POST /student-info/loadByExamCenterName
+     * 请求参数: {"key": "考试院名称"}
+     * 返回值: 学生信息列表
+     */
     @PostMapping("/loadByExamCenterName")
     public R<List<StudentInfo>> loadByExam(@RequestBody Map<String, Object> params) {
         try {

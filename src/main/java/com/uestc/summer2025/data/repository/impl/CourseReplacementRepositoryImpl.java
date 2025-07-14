@@ -42,8 +42,7 @@ public class CourseReplacementRepositoryImpl implements CourseReplacementReposit
 
     @Override
     public List<CourseReplacement> loadAllCourseReplacement() {
-        // 查询所有 CourseReplacement 数据
-        return courseReplacementMapper.selectList(null);
+        return courseReplacementMapper.findAllCourseReplacement();
     }
 
     @Override

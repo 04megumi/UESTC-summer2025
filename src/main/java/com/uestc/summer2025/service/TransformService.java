@@ -26,7 +26,7 @@ public class TransformService {
     public String courseNameToId(String courseName) {
         // 使用 QueryWrapper 构建查询条件
         QueryWrapper<CourseInfo> queryWrapper = new QueryWrapper<>();
-        queryWrapper.eq("course_name", courseName)  // 根据课程名称查询
+        queryWrapper.eq("name", courseName)  // 根据课程名称查询
                 .eq("is_deleted", 0);  // 仅查询未删除的记录
         // 执行查询
         CourseInfo courseInfo = courseInfoMapper.selectOne(queryWrapper);
@@ -43,12 +43,12 @@ public class TransformService {
     public String courseIdToName(String courseId) {
         // 使用 QueryWrapper 构建查询条件
         QueryWrapper<CourseInfo> queryWrapper = new QueryWrapper<>();
-        queryWrapper.eq("course_id", courseId)  // 根据课程ID查询
+        queryWrapper.eq("course_code", courseId)  // 根据课程ID查询
                 .eq("is_deleted", 0);  // 仅查询未删除的记录
         // 执行查询
         CourseInfo courseInfo = courseInfoMapper.selectOne(queryWrapper);
         // 如果找到了对应的课程信息，返回课程名称，否则返回 null
-        return (courseInfo != null) ? courseInfo.getCourseCode() : null;
+        return (courseInfo != null) ? courseInfo.getName() : null;
     }
 
     /**
@@ -60,7 +60,7 @@ public class TransformService {
     public String majorIdToName(String majorId) {
         // 使用 QueryWrapper 构建查询条件
         QueryWrapper<MajorInfo> queryWrapper = new QueryWrapper<>();
-        queryWrapper.eq("major_id", majorId)  // 根据专业ID查询
+        queryWrapper.eq("code", majorId)  // 根据专业ID查询
                 .eq("is_deleted", 0);  // 仅查询未删除的记录
         // 执行查询
         MajorInfo majorInfo = majorInfoMapper.selectOne(queryWrapper);
@@ -77,7 +77,7 @@ public class TransformService {
     public String majorNameToId(String majorName) {
         // 使用 QueryWrapper 构建查询条件
         QueryWrapper<MajorInfo> queryWrapper = new QueryWrapper<>();
-        queryWrapper.eq("major_name", majorName)  // 根据专业名称查询
+        queryWrapper.eq("name", majorName)  // 根据专业名称查询
                 .eq("is_deleted", 0);  // 仅查询未删除的记录
         // 执行查询
         MajorInfo majorInfo = majorInfoMapper.selectOne(queryWrapper);

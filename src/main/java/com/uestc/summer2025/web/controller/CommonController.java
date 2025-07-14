@@ -18,6 +18,13 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.Objects;
 import java.util.UUID;
 
+/**
+ * 通用登录与注册控制器
+ * 提供管理员与考生的登录与注册接口
+ *
+ * author: 魏子越
+ * date: 2025/07/14
+ */
 @RestController
 @RequestMapping("/")
 public class CommonController {
@@ -29,15 +36,18 @@ public class CommonController {
     AdminInfoMapper adminInfoMapper;
 
     /**
-     * DTO 类
-     * 登录信息
+     * 用户登录接口（支持考生与管理员）
      * <p>
-     * 前端发送的请求体格式如下：
+     * 接口 URL: POST /login
+     * 请求体示例:
      * {
-     *   "name": "用户名",    // 用户名
-     *   "password": "密码"   // 密码
+     *   "name": "用户名",
+     *   "password": "密码"
      * }
      * </p>
+     * 返回值:
+     * - 登录成功: "学生" 或 "管理员"
+     * - 登录失败: 错误信息
      */
     @PostMapping("/login")
     public R<Object> logIn(@RequestBody LogInDTO dto) {
@@ -58,10 +68,14 @@ public class CommonController {
     }
 
     /**
-     *  参数定义见 web/dto
-     *
-     * @param studentRegisterDTO
-     * @return R<Object>
+     * 学生注册接口
+     * <p>
+     * 接口 URL: POST /register-student
+     * 请求体参数见 {@link StudentRegisterDTO}
+     * 返回值:
+     * - 注册成功: "学生注册成功"
+     * - 注册失败: 错误提示（如考试院/专业不存在）
+     * </p>
      */
     @PostMapping("/register-student")
     public R<Object> registerStudent(@RequestBody StudentRegisterDTO studentRegisterDTO) {
@@ -95,10 +109,14 @@ public class CommonController {
 
 
     /**
-     *  参数定义见 web/dto
-     *
-     * @param adminRegisterDTO
-     * @return R<Object></Object>
+     * 管理员注册接口
+     * <p>
+     * 接口 URL: POST /register-admin
+     * 请求体参数见 {@link AdminRegisterDTO}
+     * 返回值:
+     * - 注册成功: "管理员注册成功"
+     * - 注册失败: 错误提示（如考试院信息错误）
+     * </p>
      */
     @PostMapping("/register-admin")
     public R<Object> registerAdmin(@RequestBody AdminRegisterDTO adminRegisterDTO) {
@@ -125,5 +143,4 @@ public class CommonController {
             return R.failed("检查考试院信息");
         }
     }
-
 }
