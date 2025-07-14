@@ -3,6 +3,7 @@ package com.uestc.summer2025.data.entity;
 import com.baomidou.mybatisplus.annotation.TableField;
 import com.uestc.summer2025.base.CommonBaseEntity;
 import com.baomidou.mybatisplus.annotation.TableName;
+import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
 import lombok.NonNull;
@@ -19,6 +20,7 @@ import java.time.LocalDate;
  */
 @Data
 @EqualsAndHashCode(callSuper = true)
+@AllArgsConstructor
 @TableName("CourseReplacement")
 public class CourseReplacement extends CommonBaseEntity<CourseReplacement> {
 
@@ -41,13 +43,17 @@ public class CourseReplacement extends CommonBaseEntity<CourseReplacement> {
     private String majorCode;
 
     // 生效起始日期
-    @NonNull
     @TableField("effective_from")
     private LocalDate effectiveFrom;
 
     // 生效截止日期
-    @NonNull
     @TableField("effective_to")
     private LocalDate effectiveTo;
 
+    public CourseReplacement(String oldCourseCode, String newCourseCode, String majorCode, boolean isDeleted) {
+        this.oldCourseCode = oldCourseCode;
+        this.newCourseCode = newCourseCode;
+        this.majorCode = majorCode;
+        setIsDeleted(isDeleted);
+    }
 }

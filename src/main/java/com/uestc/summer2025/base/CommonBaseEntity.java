@@ -57,6 +57,6 @@ public class CommonBaseEntity<T extends CommonBaseEntity<?>> extends Model<T> {
 
     // 是否存续
     public boolean isActivate() {
-        return !isDeleted && !frozened;
+        return !isDeleted && (frozened==null || !frozened.equals(Boolean.TRUE));
     }
 }

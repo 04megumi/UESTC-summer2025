@@ -48,4 +48,6 @@ public interface CourseReplacementRepository {
     List<CourseReplacement> loadCourseReplacementByPage(int pageNum, int pageSize);
 
     CourseReplacement findByCourseCodesAndMajor(String oldCourseCode, String newCourseCode, String major);
+
+    boolean activateCourseReplacement(String oldCourseCode, String newCourseCode, String major);
 }

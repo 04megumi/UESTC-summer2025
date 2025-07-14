@@ -9,6 +9,7 @@ import com.uestc.summer2025.data.repository.CourseReplacementRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 
+import java.time.LocalDateTime;
 import java.util.List;
 
 @Repository
@@ -57,12 +58,11 @@ public class CourseReplacementRepositoryImpl implements CourseReplacementReposit
 
     @Override
     public CourseReplacement findByCourseCodesAndMajor(String oldCourseCode, String newCourseCode, String majorCode) {
-        QueryWrapper<CourseReplacement> queryWrapper = new QueryWrapper<>();
-        // 构造查询条件
-        queryWrapper.eq("old_course_code", oldCourseCode)
-                .eq("new_course_code", newCourseCode)
-                .eq("major_code", majorCode);
-        // 使用 MyBatis-Plus 的 getOne 方法获取一条记录
-        return courseReplacementMapper.selectOne(queryWrapper);
+        return courseReplacementMapper.findByCourseCodesAndMajor(oldCourseCode, newCourseCode, majorCode);
+    }
+
+    @Override
+    public boolean activateCourseReplacement(String oldCourseCode, String newCourseCode, String major) {
+        return courseReplacementMapper.activateCourseReplacement(oldCourseCode, newCourseCode, major) > 0;
     }
 }
