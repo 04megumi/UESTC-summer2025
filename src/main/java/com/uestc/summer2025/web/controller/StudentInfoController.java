@@ -5,6 +5,7 @@ import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import com.uestc.summer2025.data.entity.StudentInfo;
 import com.uestc.summer2025.data.mapper.StudentInfoMapper;
 import com.uestc.summer2025.util.R;
+import com.uestc.summer2025.web.dto.StudentPageDTO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
@@ -83,60 +84,89 @@ public class StudentInfoController {
     }
 
     /**
-     * 根据专业代码查询学生列表
+     * 根据专业名称分页查询学生列表
      *
-     * 接口 URL: POST /student-info/loadByMajor
-     * 请求参数: {"key": "专业代码"}
-     * 返回值: 学生信息列表
+     * 接口 URL: POST /student-info/pageByMajor
+     * 请求参数:
+     * {
+     *   "key": "专业名称",
+     *   "pageNum": 1,
+     *   "pageSize": 10
+     * }
+     * 返回值: 分页的学生信息列表
      */
-    @PostMapping("/loadByMajor")
-    public R<List<StudentInfo>> loadByMajor(@RequestBody Map<String, Object> params) {
+    @PostMapping("/pageByMajor")
+    public R<Page<StudentInfo>> loadByMajor(@RequestBody StudentPageDTO params) {
         try {
+            String major = params.getKey();
+            int pageNum = params.getPageNum();
+            int pageSize = params.getPageSize();
+
+            Page<StudentInfo> page = new Page<>(pageNum, pageSize);
             QueryWrapper<StudentInfo> queryWrapper = new QueryWrapper<>();
-            queryWrapper.eq("major", params.get("key"))
-                    .eq("is_deleted", 0);
-            return R.success(studentInfoMapper.selectList(queryWrapper));
+            queryWrapper.eq("major", major).eq("is_deleted", 0);
+
+            return R.success(studentInfoMapper.selectPage(page, queryWrapper));
         } catch (Exception e) {
-            return R.failed(e.getMessage());
+            return R.failed("分页查询失败：" + e.getMessage());
         }
     }
 
     /**
-     * 根据性别查询学生列表
+     * 根据性别分页查询学生列表
      *
-     * 接口 URL: POST /student-info/loadByGender
-     * 请求参数: {"key": "性别"} // "男" 或 "女"
-     * 返回值: 学生信息列表
+     * 接口 URL: POST /student-info/pageByGender
+     * 请求参数:
+     * {
+     *   "key": "男" 或 "女",
+     *   "pageNum": 1,
+     *   "pageSize": 10
+     * }
+     * 返回值: 分页的学生信息列表
      */
-    @PostMapping("/loadByGender")
-    public R<List<StudentInfo>> loadByGender(@RequestBody Map<String, Object> params) {
+    @PostMapping("/pageByGender")
+    public R<Page<StudentInfo>> loadByGender(@RequestBody StudentPageDTO params) {
         try {
+            String gender = params.getKey();
+            int pageNum = params.getPageNum();
+            int pageSize = params.getPageSize();
+
+            Page<StudentInfo> page = new Page<>(pageNum, pageSize);
             QueryWrapper<StudentInfo> queryWrapper = new QueryWrapper<>();
-            queryWrapper.eq("gender", params.get("key"))
-                    .eq("is_deleted", 0);
-            return R.success(studentInfoMapper.selectList(queryWrapper));
+            queryWrapper.eq("gender", gender).eq("is_deleted", 0);
+
+            return R.success(studentInfoMapper.selectPage(page, queryWrapper));
         } catch (Exception e) {
-            return R.failed(e.getMessage());
+            return R.failed("分页查询失败：" + e.getMessage());
         }
     }
 
     /**
-     * 根据考试院名称查询学生列表
+     * 根据考试院名称分页查询学生列表
      *
-     * 接口 URL: POST /student-info/loadByExamCenterName
-     * 请求参数: {"key": "考试院名称"}
-     * 返回值: 学生信息列表
+     * 接口 URL: POST /student-info/pageByExamCenter
+     * 请求参数:
+     * {
+     *   "key": "考试院名称",
+     *   "pageNum": 1,
+     *   "pageSize": 10
+     * }
+     * 返回值: 分页的学生信息列表
      */
-    @PostMapping("/loadByExamCenterName")
-    public R<List<StudentInfo>> loadByExam(@RequestBody Map<String, Object> params) {
+    @PostMapping("/pageByExamCenter")
+    public R<Page<StudentInfo>> loadByExamCenter(@RequestBody StudentPageDTO params) {
         try {
-            System.out.println(params);
+            String center = params.getKey();
+            int pageNum = params.getPageNum();
+            int pageSize = params.getPageSize();
+
+            Page<StudentInfo> page = new Page<>(pageNum, pageSize);
             QueryWrapper<StudentInfo> queryWrapper = new QueryWrapper<>();
-            queryWrapper.eq("exam_center_name", params.get("key"))
-                    .eq("is_deleted", 0);
-            return R.success(studentInfoMapper.selectList(queryWrapper));
+            queryWrapper.eq("exam_center_name", center).eq("is_deleted", 0);
+
+            return R.success(studentInfoMapper.selectPage(page, queryWrapper));
         } catch (Exception e) {
-            return R.failed(e.getMessage());
+            return R.failed("分页查询失败：" + e.getMessage());
         }
     }
 
