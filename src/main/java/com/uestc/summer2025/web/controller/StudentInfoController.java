@@ -2,17 +2,18 @@ package com.uestc.summer2025.web.controller;
 
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
+import com.uestc.summer2025.data.entity.StudentCourse;
 import com.uestc.summer2025.data.entity.StudentInfo;
+import com.uestc.summer2025.data.mapper.StudentCourseMapper;
 import com.uestc.summer2025.data.mapper.StudentInfoMapper;
 import com.uestc.summer2025.service.TransformService;
 import com.uestc.summer2025.util.R;
-import com.uestc.summer2025.web.dto.StudentInfoChange1DTO;
-import com.uestc.summer2025.web.dto.StudentInfoChange2DTO;
-import com.uestc.summer2025.web.dto.StudentInfoChange3DTO;
-import com.uestc.summer2025.web.dto.StudentPageDTO;
+import com.uestc.summer2025.web.dto.*;
+import com.uestc.summer2025.web.vo.StudentCourseVO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 
@@ -32,6 +33,8 @@ public class StudentInfoController {
 
     @Autowired
     private TransformService transformService;
+    @Autowired
+    private StudentCourseMapper studentCourseMapper;
 
 
     /**
@@ -367,5 +370,50 @@ public class StudentInfoController {
         } catch (Exception e) {
             return R.failed("学生信息修改出错：" + e.getMessage());
         }
+    }
+
+    /**
+     * 根据学生姓名查询其所修课程信息
+     *
+     * 请求方式：POST
+     * 请求路径：/student-courses
+     *
+     * 请求参数（JSON）：
+     * {
+     *     "name": "学生姓名"
+     * }
+     *
+     * 返回值：
+     * - 成功：返回该学生的课程列表（List<StudentCourseVO>），每个元素包含课程代码、课程名称、学分等信息。
+     * - 失败：返回错误信息，例如找不到该学生或查询异常。
+     *
+     * 注意事项：
+     * - 若学生姓名不存在于系统中，将抛出异常。
+     * - 接口使用名称唯一查找学生信息，确保数据库中姓名不重复。
+     */
+    @PostMapping("/student-courses")
+    public R<List<StudentCourseVO>> getStudentCourses(@RequestBody NameDTO nameDTO) {
+        try {
+            QueryWrapper<StudentInfo> queryWrapper = new QueryWrapper<>();
+            queryWrapper.eq("name", nameDTO.getName());
+            StudentInfo studentInfo = studentInfoMapper.selectOne(queryWrapper);
+            String studentId = studentInfo.getStudentId();
+            QueryWrapper<StudentCourse> queryWrapper1 = new QueryWrapper<>();
+            queryWrapper1.eq("student_id", studentId);
+            List<StudentCourse> studentCourses = studentCourseMapper.selectList(queryWrapper1);
+            List<StudentCourseVO> studentCourseVOList = new ArrayList<>();
+            studentCourses.forEach(studentCourse -> studentCourseVOList.add(toVO(studentCourse)));
+            return R.success(studentCourseVOList);
+        } catch (Exception e) {
+            return R.failed("学生成绩查询错误：" + e.getMessage());
+        }
+    }
+
+    private StudentCourseVO toVO(StudentCourse studentCourse) {
+        StudentCourseVO studentCourseVO = new StudentCourseVO();
+        studentCourseVO.setCourseCode(studentCourse.getCourseCode());
+        studentCourseVO.setCourseScore(studentCourse.getScore());
+        studentCourseVO.setCourseName(transformService.courseIdToName(studentCourse.getCourseCode()));
+        return studentCourseVO;
     }
 }
