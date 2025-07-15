@@ -10,25 +10,161 @@
 
 ## 项目结构
 
-```bash
+````bash
+```
 .
 ├── README.md
-├── pom.xml                       # Maven 配置文件，管理依赖
+├── pom.xml
 ├── src
-│   ├── main
-│   │   ├── java
-│   │   │   └── com
-│   │   │       └── uestc
-│   │   │           └── summer2025
-│   │   │               └── Summer2025Application.java   # Spring Boot 启动类
-│   │   └── resources
-│   │       ├── application.yml    # 配置文件
-│   │       ├── mapper             # MyBatis 映射文件存放目录
-│   │       └── migration          # 数据库迁移脚本存放目录
-│   └── test
-│       ├── java                  # 测试代码存放目录
-│       └── resources             # 测试资源文件存放目录
+│   ├── main
+│   │   ├── java
+│   │   │   └── com
+│   │   │       └── uestc
+│   │   │           └── summer2025
+│   │   │               ├── Summer2025Application.java
+│   │   │               ├── base
+│   │   │               │   ├── CommonBaseEntity.java
+│   │   │               │   └── CommonBaseMapper.java
+│   │   │               ├── config
+│   │   │               │   ├── MybatisPlusConfig.java
+│   │   │               │   ├── MybatisPlusObjectHandler.java
+│   │   │               │   ├── RedisConfig.java
+│   │   │               │   └── WebConfig.java
+│   │   │               ├── constant
+│   │   │               │   ├── RedisCacheKeys.java
+│   │   │               │   └── StudentConst.java
+│   │   │               ├── data
+│   │   │               │   ├── entity
+│   │   │               │   │   ├── AdminInfo.java
+│   │   │               │   │   ├── CourseInfo.java
+│   │   │               │   │   ├── CourseReplacement.java
+│   │   │               │   │   ├── CourseReplacementApplication.java
+│   │   │               │   │   ├── ExamCenter.java
+│   │   │               │   │   ├── ExemptionApplication.java
+│   │   │               │   │   ├── ExemptionRule.java
+│   │   │               │   │   ├── MajorInfo.java
+│   │   │               │   │   ├── MajorRequiredCourse.java
+│   │   │               │   │   ├── StudentCourse.java
+│   │   │               │   │   └── StudentInfo.java
+│   │   │               │   ├── mapper
+│   │   │               │   │   ├── AdminInfoMapper.java
+│   │   │               │   │   ├── CourseInfoMapper.java
+│   │   │               │   │   ├── CourseReplacementApplicationMapper.java
+│   │   │               │   │   ├── CourseReplacementMapper.java
+│   │   │               │   │   ├── ExamCenterMapper.java
+│   │   │               │   │   ├── ExemptionApplicationMapper.java
+│   │   │               │   │   ├── ExemptionRuleMapper.java
+│   │   │               │   │   ├── MajorInfoMapper.java
+│   │   │               │   │   ├── MajorRequiredCourseMapper.java
+│   │   │               │   │   ├── StudentCourseMapper.java
+│   │   │               │   │   └── StudentInfoMapper.java
+│   │   │               │   └── repository
+│   │   │               │       ├── CourseReplacementRepository.java
+│   │   │               │       └── impl
+│   │   │               │           └── CourseReplacementRepositoryImpl.java
+│   │   │               ├── service
+│   │   │               │   ├── CachePreheatService.java
+│   │   │               │   ├── CacheService.java
+│   │   │               │   ├── CourseReplacementService.java
+│   │   │               │   └── TransformService.java
+│   │   │               ├── util
+│   │   │               │   └── R.java
+│   │   │               └── web
+│   │   │                   ├── controller
+│   │   │                   │   ├── ApplicationController.java
+│   │   │                   │   ├── BaseController.java
+│   │   │                   │   ├── CommonController.java
+│   │   │                   │   ├── CourseReplacementController.java
+│   │   │                   │   ├── ExemptionRuleController.java
+│   │   │                   │   ├── StudentGraduateController.java
+│   │   │                   │   └── StudentInfoController.java
+│   │   │                   ├── dto
+│   │   │                   │   ├── AdminRegisterDTO.java
+│   │   │                   │   ├── CourseReplacementApplication1DTO.java
+│   │   │                   │   ├── CourseReplacementApplication2DTO.java
+│   │   │                   │   ├── CourseReplacementDTO.java
+│   │   │                   │   ├── ExemptionApplication1DTO.java
+│   │   │                   │   ├── ExemptionApplication2DTO.java
+│   │   │                   │   ├── ExemptionRuleDTO.java
+│   │   │                   │   ├── LogInDTO.java
+│   │   │                   │   ├── NameDTO.java
+│   │   │                   │   ├── StudentInfoChange1DTO.java
+│   │   │                   │   ├── StudentInfoChange2DTO.java
+│   │   │                   │   ├── StudentInfoChange3DTO.java
+│   │   │                   │   ├── StudentPageDTO.java
+│   │   │                   │   └── StudentRegisterDTO.java
+│   │   │                   └── vo
+│   │   │                       ├── CourseInfoVO.java
+│   │   │                       ├── CourseReplacementApplicationVO.java
+│   │   │                       ├── CourseReplacementVO.java
+│   │   │                       ├── ExemptionApplicationVO.java
+│   │   │                       ├── ExemptionRuleVO.java
+│   │   │                       ├── GraduateVO.java
+│   │   │                       ├── GraduateVO2.java
+│   │   │                       └── MajorInfoVO.java
+│   └── resources
+│       ├── application.yml
+│       └── migration
+│           ├── V10__create_student_course.sql
+│           ├── V11__insert_student_course.sql
+│           ├── V12__insert_student_info.sql
+│           ├── V13__insert_admin_info.sql
+│           ├── V14__insert_exemption_application.sql
+│           ├── V15__insert_course_replacement_application.sql
+│           ├── V1__create_exam_center.sql
+│           ├── V2__create_admin_info.sql
+│           ├── V3__create_major_info_table.sql
+│           ├── V4__create_course_info_table.sql
+│           ├── V5__create_student_info_table.sql
+│           ├── V6__create_cource_replacement_table.sql
+│           ├── V7__create_exemption_rule.sql
+│           ├── V8__create_major_required_course_table.sql
+│           └── V9__create_operationlog_table.sql
 ```
+````
+
+## 📦 Redis 缓存模块设计（CachePreheatService）
+
+### ✅ 设计目的
+
+为提升系统性能与响应速度，在系统启动时，将以下常用的静态数据预加载进 Redis 缓存中，避免频繁查询数据库。
+
+通过统一的缓存 key 命名规范（见 `RedisCacheKeys` 常量类），实现缓存键值的集中管理与代码解耦。
+
+---
+
+### 🧠 核心类与职责
+
+#### `RedisCacheKeys.java`
+
+> 定义所有缓存 Key 的命名规范（全局静态常量），避免硬编码字符串。
+
+| Key 名称 | 描述 |
+|----------|------|
+| `course:all` | 所有课程列表（`List<CourseInfo>`） |
+| `course:name-to-code` | 课程名 → 课程代码映射（`Hash<String, String>`） |
+| `major:all` | 所有专业列表（`List<MajorInfo>`） |
+| `major:name-to-code` | 专业名 → 专业代码映射（`Hash<String, String>`） |
+| `examCenter:all` | 所有考试院列表（`List<ExamCenter>`） |
+| `examCenter:name-to-id` | 考试院名 → ID 映射（`Hash<String, Long>`） |
+| `majorRequiredCourse:{majorCode}` | 某专业的必修课程列表（`List<MajorRequiredCourse>`） |
+
+---
+
+#### `CachePreheatService.java`
+
+> 负责在系统启动后，将各类基础数据写入 Redis，作为全局缓存。
+
+**方法：**
+
+```java
+@PostConstruct
+public void preheatCache() {
+    // 1. 缓存所有课程列表和课程名映射
+    // 2. 缓存所有专业列表和专业名映射
+    // 3. 缓存所有考试院列表和考试院名映射
+    // 4. 缓存每个专业对应的必修课程列表（按 majorCode 分组）
+}
 
 ## 开发环境
 
@@ -57,6 +193,42 @@
 git clone https://github.com/04megumi/UESTC-summer2025.git
 ```
 
+## 🗃️ 数据库表结构说明（summer2025_dev）
+
+系统共有 **13 张业务表** + **1 张版本管理表（Flyway）**，用于支持学生课程替换、自学考试免考、毕业审核等核心功能。
+
+| 表名 | 描述 |
+|------|------|
+| `AdminInfo` | 管理员信息表，记录各考试院/系统管理员账号数据 |
+| `CourseInfo` | 课程信息表，记录课程名称、代码、学分等基础信息 |
+| `CourseReplacement` | 课程顶替规则表，定义原课程与新课程的替换关系（可按专业区分） |
+| `CourseReplacementApplication` | 学生提交的课程替换申请记录（待审核或已处理） |
+| `ExamCenter` | 考试院信息表，用于区分各学生所属考试机构 |
+| `ExemptionApplication` | 免考申请表，记录学生对某些课程的免修申请 |
+| `ExemptionRule` | 免考规则表，定义可申请免考的条件（例如资格证书、课程） |
+| `flyway_schema_history` | Flyway 自动生成的数据库迁移版本控制表 |
+| `MajorInfo` | 专业信息表，记录所有专业的代码、名称等基础信息 |
+| `MajorRequiredCourse` | 各专业的毕业必修课程表，用于毕业审核对比 |
+| `OperationLog` | 操作日志表，记录所有用户操作记录（如申请、审批） |
+| `StudentCourse` | 学生已修课程表，记录课程成绩、是否通过等 |
+| `StudentInfo` | 学生信息表，记录学生基础数据（姓名、身份证、所属考试院等） |
+
+---
+
+### 🔄 数据表间关系概览
+
+- 一名学生（`StudentInfo`）可能属于一个考试院（`ExamCenter`）
+- 一名学生可提交多个：
+    - 课程替换申请（`CourseReplacementApplication`）
+    - 免考申请（`ExemptionApplication`）
+- 每门课程（`CourseInfo`）可能被替换或作为替代课程（`CourseReplacement`）
+- 专业（`MajorInfo`）与必修课程（`MajorRequiredCourse`）是一对多关系
+- 所有操作写入 `OperationLog` 用于审计和回溯
+
+---
+
+> 🧠 后续可考虑用数据库 ER 图工具（如 dbdiagram.io / Navicat / PowerDesigner）生成关系图形化文档
+> 
 ### 2. 安装所需软件
 
 - **JDK**: 本项目需要 JDK 17 及以上版本。可以从 [Oracle 官方网站](https://www.oracle.com/java/technologies/javase-jdk17-downloads.html) 或者 [OpenJDK 官网](https://openjdk.java.net/) 获取。
