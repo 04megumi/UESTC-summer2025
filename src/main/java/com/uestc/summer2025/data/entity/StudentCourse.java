@@ -4,6 +4,7 @@ import com.uestc.summer2025.base.CommonBaseEntity;
 import com.baomidou.mybatisplus.annotation.TableName;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
+import lombok.NoArgsConstructor;
 import lombok.NonNull;
 import java.io.Serial;
 import java.math.BigDecimal;
@@ -17,6 +18,7 @@ import java.math.BigDecimal;
  */
 @Data
 @EqualsAndHashCode(callSuper = true)
+@NoArgsConstructor
 @TableName("StudentCourse")
 public class StudentCourse extends CommonBaseEntity<StudentCourse> {
 

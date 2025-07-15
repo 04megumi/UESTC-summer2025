@@ -416,4 +416,71 @@ public class StudentInfoController {
         studentCourseVO.setCourseName(transformService.courseIdToName(studentCourse.getCourseCode()));
         return studentCourseVO;
     }
+
+    /**
+     * 更新学生课程成绩接口
+     *
+     * 接口路径: POST /update-course
+     *
+     * 请求参数:
+     * - @RequestBody StudentCourseDTO studentCourseDTO
+     *   - studentName：学生姓名（用于查询 studentId）
+     *   - courseName：课程名称（用于转换为 courseCode）
+     *   - score：课程成绩（用于新增或更新成绩）
+     *
+     * 处理逻辑:
+     * 1. 通过学生姓名从 StudentInfo 表中获取 studentId；
+     * 2. 使用 transformService 将 courseName 转换为 courseCode；
+     * 3. 在 StudentCourse 表中查询是否已有该 studentId + courseCode 的记录；
+     *    - 若存在：更新该课程的成绩；
+     *    - 若不存在：新增该学生该课程的成绩记录；
+     *
+     * 返回:
+     * - R.success：表示成绩更新或插入成功；
+     * - R.failed：若发生异常或学生信息未找到，返回错误提示信息。
+     */
+    @PostMapping("update-course")
+    public R<String> updateStudentCourse(@RequestBody StudentCourseDTO studentCourseDTO) {
+        try {
+            // 1. 根据学生姓名查找学生信息
+            QueryWrapper<StudentInfo> queryWrapper = new QueryWrapper<>();
+            queryWrapper.eq("name", studentCourseDTO.getStudentName());
+            StudentInfo studentInfo = studentInfoMapper.selectOne(queryWrapper);
+
+            if (studentInfo == null) {
+                return R.failed("未找到该学生信息");
+            }
+
+            String studentId = studentInfo.getStudentId();
+
+            // 2. 课程名称转为课程代码
+            String courseCode = transformService.courseNameToId(studentCourseDTO.getCourseName());
+
+            // 3. 查找该学生该课程是否已有成绩记录
+            QueryWrapper<StudentCourse> queryWrapper1 = new QueryWrapper<>();
+            queryWrapper1.eq("student_id", studentId)
+                    .eq("course_code", courseCode);
+
+            StudentCourse studentCourse = studentCourseMapper.selectOne(queryWrapper1);
+
+            if (studentCourse == null) {
+                // 如果没有，新增一条
+                StudentCourse studentCourse1 = new StudentCourse();
+                studentCourse1.setStudentId(studentId);
+                studentCourse1.setCourseCode(courseCode);
+                studentCourse1.setScore(studentCourseDTO.getScore());
+
+                studentCourseMapper.insert(studentCourse1);
+            } else {
+                // 如果已有，更新成绩
+                studentCourse.setScore(studentCourseDTO.getScore());
+                studentCourseMapper.updateById(studentCourse);
+            }
+
+            return R.success("修改成绩成功");
+        } catch (Exception e) {
+            return R.failed("学生成绩更新错误：" + e.getMessage());
+        }
+    }
+
 }
